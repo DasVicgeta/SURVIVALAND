@@ -29,4 +29,5 @@
 -23 62 23 -11 84 35 BaloonVeryLow.tml
 -18 63 389 -11 76 395 TP_FishingShack.tml
 0 46 221 11 57 257 SunkenShip-v3.tml
+25 99 471 33 105 479 ShortTower.tml
 29 63 111 59 106 141 SkyCastle.tml

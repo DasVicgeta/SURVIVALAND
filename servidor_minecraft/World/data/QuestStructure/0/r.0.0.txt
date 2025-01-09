@@ -11,3 +11,4 @@ StonePlantMound3,-330,-319,492,501
 StonePlantMound,-115,-110,500,505
 StonePlantMound3,-84,-73,484,493
 StonePlantMound3,-350,-341,184,195
+StonePlantMound2,-6,7,462,474

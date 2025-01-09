@@ -18381,3 +18381,216 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 
 [21:56:23] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 50 times.
 
+[21:57:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[21:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: rafa_123__xd has made the advancement [Stone Age]
+[21:57:13] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 55 times.
+
+[21:57:13] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 55 times.
+
+[21:57:13] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 55 times.
+
+[21:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: rafa_123__xd has made the advancement [Getting an Upgrade]
+[21:57:34] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-6, y0=63, z0=462, x1=7, y1=73, z1=474} (0)
+[21:57:34] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound2
+[21:57:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[21:58:03] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 60 times.
+
+[21:58:03] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 60 times.
+
+[21:58:03] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 60 times.
+
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_990_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[21:58:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_990_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[21:58:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[21:58:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[21:58:53] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 65 times.
+
+[21:58:53] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 65 times.
+
+[21:58:53] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 65 times.
+
+[21:59:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[21:59:43] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 70 times.
+
+[21:59:43] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 70 times.
+
+[21:59:43] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 70 times.
+
+[22:00:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:00:33] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 75 times.
+
+[22:00:33] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 75 times.
+
+[22:00:33] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 75 times.
+
+[22:00:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:01:07] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:01:07] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:01:07] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:01:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:01:07] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:01:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:195 mods->FMLHandshakeServerState$2:HELLO
+[22:01:07] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 195 mods : levelup2@${version},friendlyendermite@1.0,disenchanter@1.8,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,fishingmadebetter@2.2.6,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,forgelin@1.8.4,llibrary@1.7.20,waila@1.8.26,snowrealmagic@0.7.1,bq_msi@1.0.9,mainmenuscale@1.0,dshuds@3.6.0.0,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,spark@1.6.3,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,forgottenitems@1.2.1,FML@8.0.99.99,tombstone@4.6.8,rtg@6.1.0.0-snapshot.1,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,kiwi@0.5.3.32,ctgui@1.0.0,rltweaker@0.5.12,coralreef@2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,xray@2.0.0,bountifulbaubles@0.0.1,locks@3.0.0,deconstruction@3.0.4,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,mujmajnkraftsbettersurvival@1.5.3,framevoidpatch@1.0.0,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,inventorytweaks@1.64+dev.151.822d839,bettercombatmod@2.0.8,xat@0.32,iceandfire@1.7.1,crafttweaker@4.1.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,minecraft@1.12.2,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,fermiumbooter@1.1.1,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,mantle@1.12-1.3.3.55,loottweaker@0.3.1,tnt_utilities@1.2.3,autoreglib@1.3-32,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,appleskin@1.0.14,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,aquaculture@1.6.8,collisiondamage@1.2.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6,wolfarmor@3.8.1+alpha.1,grapplemod@1.12.2-v12.3,foodexpansion@1.3,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,incontrol@3.9.18,multimine@1.6.2,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,familiarfauna@1.0.11,librarianliblate@4.22,carryon@1.12.3,loadingscreens@0.3.1,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,compatskills@1.12.2-1.17.0,helpfixer@1.12.1-1.5.18,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.6,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,betterthirdperson@1.9.0,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,spartanweaponry@1.5.3,localizator@1.0.9,materialtweaker@1.1.1,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,librarianlib@4.22,xpfromharvest@1.2.0,googlyeyes@7.1.1,callablehorses@1.1.1,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,comforts@1.4.1.3,artifacts@1.1.2,tumbleweed@1.12-0.4.7,surge@2.0.79,foamfixcore@7.7.4,realistictorches@2.1.2,rlmixins@1.2.14,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,antiquecities@1.0,firstaid@1.6.22,portaldupebegone@1.0.0,wearablebackpacks@3.2.6,orelib@3.6.0.1,spartandefiled@1.0,variedcommodities@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,jade@0.1.0,creativecore@1.10.0,bloodmoon@1.5.3,quark@r1.6-179,legendarytooltips@1.1.9,spartanshields@1.5.5,bqtweaker@1.3.5,reskillable@1.12.2-1.13.0,foamfix@@VERSION@,tnt_utilities_core@1.2.3,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2
+[22:01:07] [Netty Epoll Server IO #3/TRACE] [RLTweaker]: Client Version: 0.5.12
+[22:01:07] [Netty Epoll Server IO #3/TRACE] [RLTweaker]: Local Version: 0.5.12
+[22:01:07] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[22:01:07] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[22:01:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:01:07] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[22:01:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:01:10] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[22:01:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:01:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:01:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Norsx_[/127.158.56.131:45191] logged in with entity id 17103 at (-156.5, 64.0, 204.5)
+[22:01:10] [Server thread/INFO] [dsurround]: Player [Norsx_] connected with Dynamic Surroundings 3.6.2.1
+[22:01:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ joined the game
+[22:01:10] [Server thread/DEBUG] [firstaid]: Sending damage model to Norsx_
+[22:01:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Norsx_'/17103, l='World', x=-156.50, y=64.00, z=204.50] connected. Sending ping
+[22:01:10] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Norsx_
+[22:01:10] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Norsx_
+[22:01:10] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Norsx_
+[22:01:10] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Norsx_
+[22:01:10] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Norsx_
+[22:01:10] [Server thread/INFO] [XAT]: Syncing Config to Norsx_
+[22:01:10] [Thread-48/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 3b533269-1762-3c78-a36f-8d33a391e17c.
+[22:01:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:01:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Norsx_ lost connection: You logged in from another location
+[22:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ left the game
+[22:01:13] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
+[22:01:13] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:01:13] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:01:13] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:01:14] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:01:14] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:01:14] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:195 mods->FMLHandshakeServerState$2:HELLO
+[22:01:14] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 195 mods : levelup2@${version},friendlyendermite@1.0,disenchanter@1.8,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,fishingmadebetter@2.2.6,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,forgelin@1.8.4,llibrary@1.7.20,waila@1.8.26,snowrealmagic@0.7.1,bq_msi@1.0.9,mainmenuscale@1.0,dshuds@3.6.0.0,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,spark@1.6.3,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,forgottenitems@1.2.1,FML@8.0.99.99,tombstone@4.6.8,rtg@6.1.0.0-snapshot.1,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,kiwi@0.5.3.32,ctgui@1.0.0,rltweaker@0.5.12,coralreef@2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,xray@2.0.0,bountifulbaubles@0.0.1,locks@3.0.0,deconstruction@3.0.4,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,mujmajnkraftsbettersurvival@1.5.3,framevoidpatch@1.0.0,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,inventorytweaks@1.64+dev.151.822d839,bettercombatmod@2.0.8,xat@0.32,iceandfire@1.7.1,crafttweaker@4.1.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,minecraft@1.12.2,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,fermiumbooter@1.1.1,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,mantle@1.12-1.3.3.55,loottweaker@0.3.1,tnt_utilities@1.2.3,autoreglib@1.3-32,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,appleskin@1.0.14,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,aquaculture@1.6.8,collisiondamage@1.2.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6,wolfarmor@3.8.1+alpha.1,grapplemod@1.12.2-v12.3,foodexpansion@1.3,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,incontrol@3.9.18,multimine@1.6.2,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,familiarfauna@1.0.11,librarianliblate@4.22,carryon@1.12.3,loadingscreens@0.3.1,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,compatskills@1.12.2-1.17.0,helpfixer@1.12.1-1.5.18,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.6,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,betterthirdperson@1.9.0,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,spartanweaponry@1.5.3,localizator@1.0.9,materialtweaker@1.1.1,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,librarianlib@4.22,xpfromharvest@1.2.0,googlyeyes@7.1.1,callablehorses@1.1.1,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,comforts@1.4.1.3,artifacts@1.1.2,tumbleweed@1.12-0.4.7,surge@2.0.79,foamfixcore@7.7.4,realistictorches@2.1.2,rlmixins@1.2.14,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,antiquecities@1.0,firstaid@1.6.22,portaldupebegone@1.0.0,wearablebackpacks@3.2.6,orelib@3.6.0.1,spartandefiled@1.0,variedcommodities@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,jade@0.1.0,creativecore@1.10.0,bloodmoon@1.5.3,quark@r1.6-179,legendarytooltips@1.1.9,spartanshields@1.5.5,bqtweaker@1.3.5,reskillable@1.12.2-1.13.0,foamfix@@VERSION@,tnt_utilities_core@1.2.3,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2
+[22:01:14] [Netty Epoll Server IO #0/TRACE] [RLTweaker]: Client Version: 0.5.12
+[22:01:14] [Netty Epoll Server IO #0/TRACE] [RLTweaker]: Local Version: 0.5.12
+[22:01:14] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:01:14] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[22:01:14] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:01:14] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[22:01:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:01:16] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[22:01:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:01:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:01:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Norsx_[/127.158.56.131:41227] logged in with entity id 17993 at (-156.5, 64.0, 204.5)
+[22:01:16] [Server thread/INFO] [dsurround]: Player [Norsx_] connected with Dynamic Surroundings 3.6.2.1
+[22:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ joined the game
+[22:01:16] [Server thread/DEBUG] [firstaid]: Sending damage model to Norsx_
+[22:01:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Norsx_'/17993, l='World', x=-156.50, y=64.00, z=204.50] connected. Sending ping
+[22:01:16] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Norsx_
+[22:01:16] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Norsx_
+[22:01:16] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Norsx_
+[22:01:16] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Norsx_
+[22:01:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Norsx_
+[22:01:16] [Server thread/INFO] [XAT]: Syncing Config to Norsx_
+[22:01:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:01:23] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 80 times.
+
+[22:01:23] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 80 times.
+
+[22:01:23] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 80 times.
+
+[22:01:29] [Netty Epoll Server IO #0/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[22:01:29] [Netty Epoll Server IO #0/TRACE] [RLTweaker]: Adding NetworkHandler UUID
+[22:01:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:01:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <rafa_123__xd> -184 412
+[22:02:13] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 85 times.
+
+[22:02:13] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 85 times.
+
+[22:02:13] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 85 times.
+
+[22:02:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:03:03] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 90 times.
+
+[22:03:03] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 90 times.
+
+[22:03:03] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 90 times.
+
+[22:03:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:03:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Golden Roc is 0.01
+[22:03:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:03:53] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 95 times.
+
+[22:03:53] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 95 times.
+
+[22:03:53] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 95 times.
+
+[22:04:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ was pummeled by Keppel Jengu
+[22:04:28] [Server thread/INFO] [tombstone]: The last known grave of Norsx_ is at location [name:Last Grave, x:-182, y:63, z:416] in the dimension 0
+[22:04:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ has made the advancement [Your First Grave]
+[22:04:28] [Server thread/INFO] [tombstone]: Norsx_ has successfully been saved
+[22:04:28] [Server thread/INFO] [tombstone]: Norsx_ has successfully been saved
+[22:04:28] [Server thread/INFO] [tombstone]: Norsx_ has successfully been saved
+[22:04:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:04:34] [Netty Epoll Server IO #0/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[22:04:35] [Netty Epoll Server IO #0/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[22:04:36] [Netty Epoll Server IO #0/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[22:04:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Ent is 0.01
+[22:04:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Baby Ent is 0.01
+[22:04:43] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 100 times.
+
+[22:04:43] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 100 times.
+
+[22:04:43] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 100 times.
+
+[22:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: rafa_123__xd was pummeled by Keppel Jengu
+[22:04:49] [Server thread/INFO] [tombstone]: The last known grave of rafa_123__xd is at location [name:Last Grave, x:-181, y:63, z:410] in the dimension 0
+[22:04:49] [Server thread/INFO] [tombstone]: rafa_123__xd has successfully been saved
+[22:04:50] [Netty Epoll Server IO #0/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[22:05:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:05:33] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 105 times.
+
+[22:05:33] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 105 times.
+
+[22:05:33] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 105 times.
+
+[22:06:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:06:23] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 110 times.
+
+[22:06:23] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 110 times.
+
+[22:06:23] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 110 times.
+
+[22:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ has made the advancement [Monster Hunter]
+[22:06:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[22:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Norsx_ has made the advancement [A Strange Grave's Dust]
+[22:06:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[22:07:13] [Server thread/DEBUG] [FML]: The world 32098483 (World) may have leaked: seen 115 times.
+
+[22:07:13] [Server thread/DEBUG] [FML]: The world 341f2896 (World) may have leaked: seen 115 times.
+
+[22:07:13] [Server thread/DEBUG] [FML]: The world 157ca93e (World) may have leaked: seen 115 times.
+
+[22:07:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
