@@ -1,0 +1,2 @@
+RLCraft_FriendlyOutpost,-380,-341,489,557
+StonePlantMound3,-86,-77,536,547

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Nether Quart",
+    "stateString": "minecraft:quartz_ore",
+    "stateId": 153,
+    "order": 6,
+    "color": {
+      "r": 30,
+      "g": 74,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Pasto quemado",
+    "stateString": "iceandfire:chared_grass",
+    "stateId": 931,
+    "order": 13,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Tierra congelada",
+    "stateString": "iceandfire:frozen_dirt",
+    "stateId": 937,
+    "order": 12,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Coal Ore",
+    "stateString": "minecraft:coal_ore",
+    "stateId": 16,
+    "order": 1,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Diamond Ore",
+    "stateString": "minecraft:diamond_ore",
+    "stateId": 56,
+    "order": 4,
+    "color": {
+      "r": 136,
+      "g": 136,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Lapis",
+    "stateString": "minecraft:lapis_ore",
+    "stateId": 21,
+    "order": 7,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Gold Ore",
+    "stateString": "minecraft:gold_ore",
+    "stateId": 14,
+    "order": 2,
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "§6Simple Grave",
+    "stateString": "tombstone:decorative_grave_simple[facing\u003dnorth,has_soul\u003dfalse,is_engraved\u003dtrue,model_texture\u003d0]",
+    "stateId": 8669,
+    "order": 10,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Redstone Ore",
+    "stateString": "minecraft:redstone_ore",
+    "stateId": 73,
+    "order": 3,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Hielo de Dragon",
+    "stateString": "iceandfire:dragon_ice",
+    "stateId": 944,
+    "order": 14,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Cofre de roble",
+    "stateString": "minecraft:chest[facing\u003dnorth]",
+    "stateId": 8246,
+    "order": 9,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 32
+    },
+    "drawing": false
+  },
+  {
+    "name": "Ceniza",
+    "stateString": "iceandfire:ash",
+    "stateId": 936,
+    "order": 11,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Iron Ore",
+    "stateString": "minecraft:iron_ore",
+    "stateId": 15,
+    "order": 0,
+    "color": {
+      "r": 170,
+      "g": 117,
+      "b": 37
+    },
+    "drawing": true
+  },
+  {
+    "name": "Emerald Ore",
+    "stateString": "minecraft:emerald_ore",
+    "stateId": 129,
+    "order": 5,
+    "color": {
+      "r": 0,
+      "g": 136,
+      "b": 10
+    },
+    "drawing": false
+  }
+]
