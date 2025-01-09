@@ -25,3 +25,6 @@ DinosaurSkull,253,264,618,637
 RLCraft_BasicZombie,255,255,929,929
 RLCraft_UndergroundRuin1,252,261,923,932
 StoneIceBoulder,50,59,959,969
+StoneIceBoulder,273,282,787,797
+RLCraft_DecentSkeleton,268,268,860,860
+RLCraft_UndergroundRuin2,263,270,855,865
