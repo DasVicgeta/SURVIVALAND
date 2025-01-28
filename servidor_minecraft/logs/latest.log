@@ -150,3 +150,21 @@
 [23:44:50] [Server thread/INFO]: [Not Secure] <Norsx_> ZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [23:45:37] [Server thread/INFO]: rafa_123__xd has made the advancement [Suit Up]
 [23:45:48] [Server thread/INFO]: Norsx_ has made the advancement [Suit Up]
+[23:49:12] [Server thread/WARN]: Norsx_ was kicked for floating too long!
+[23:49:12] [Server thread/INFO]: Norsx_ lost connection: Flying is not enabled on this server
+[23:49:12] [Server thread/INFO]: Norsx_ left the game
+[23:49:12] [Server thread/WARN]: handleDisconnection() called twice
+[23:49:25] [Server thread/INFO]: Norsx_[/127.102.42.146:57051] logged in with entity id 14054 at (-146.50991475618585, 134.58088235293954, -144.45567452528587)
+[23:49:25] [Server thread/INFO]: Norsx_ joined the game
+[23:49:32] [Server thread/INFO]: Norsx_ fell from a high place
+[23:51:36] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
+[23:55:15] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
+[23:55:17] [Server thread/INFO]: Norsx_ has made the advancement [Isn't It Iron Pick]
+[23:55:21] [Server thread/INFO]: Norsx_ lost connection: Hacks
+[23:55:21] [Server thread/INFO]: Norsx_ left the game
+[23:55:21] [Server thread/INFO]: [rafa_123__xd: Kicked Norsx_: Hacks]
+[23:55:21] [Server thread/WARN]: handleDisconnection() called twice
+[23:55:26] [Server thread/INFO]: Norsx_ (/127.102.42.146:54499) lost connection: Disconnected
+[23:55:34] [Server thread/INFO]: Norsx_[/127.102.42.146:35833] logged in with entity id 16620 at (-74.03088423093172, 79.0, -150.2388484246344)
+[23:55:34] [Server thread/INFO]: Norsx_ joined the game
+[23:56:38] [Server thread/INFO]: Norsx_ hit the ground too hard

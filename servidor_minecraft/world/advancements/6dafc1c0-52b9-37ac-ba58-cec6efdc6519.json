@@ -616,6 +616,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-28 23:56:29 +0000",
       "minecraft:spider": "2025-01-28 23:41:52 +0000",
       "minecraft:zombie": "2025-01-28 23:18:19 +0000"
     },
@@ -690,6 +691,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_the_recipe": "2025-01-28 23:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-28 23:56:51 +0000"
     },
     "done": true
   },
