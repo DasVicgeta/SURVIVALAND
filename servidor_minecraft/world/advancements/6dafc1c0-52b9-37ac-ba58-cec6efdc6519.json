@@ -164,6 +164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-29 00:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-28 22:55:37 +0000"
@@ -664,6 +670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-29 00:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-28 23:25:00 +0000"
@@ -745,6 +757,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 23:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-29 00:07:23 +0000"
     },
     "done": true
   },
