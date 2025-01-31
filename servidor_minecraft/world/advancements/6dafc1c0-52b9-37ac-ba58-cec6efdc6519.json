@@ -454,7 +454,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-28 23:09:03 +0000"
+      "apple": "2025-01-31 21:39:39 +0000",
+      "bread": "2025-01-28 23:09:03 +0000",
+      "suspicious_stew": "2025-01-31 21:40:03 +0000"
     },
     "done": false
   },
@@ -1057,6 +1059,30 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-29 00:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-31 21:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-31 21:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-31 21:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-31 21:40:03 +0000"
     },
     "done": true
   },
