@@ -159,3 +159,17 @@
 [22:16:57] [Server thread/INFO]: rafa_123__xd has made the advancement [Getting an Upgrade]
 [22:17:33] [Server thread/INFO]: rafa_123__xd was blown up by Creeper
 [22:19:45] [Server thread/INFO]: rafa_123__xd has made the advancement [Monster Hunter]
+[22:26:15] [Server thread/INFO]: rafa_123__xd has made the advancement [Sweet Dreams]
+[22:30:53] [Server thread/INFO]: [rafa_123__xd: Stopping the server]
+[22:30:53] [Server thread/INFO]: Stopping server
+[22:30:53] [Server thread/INFO]: Saving players
+[22:30:53] [Server thread/INFO]: rafa_123__xd lost connection: Server closed
+[22:30:53] [Server thread/INFO]: rafa_123__xd left the game
+[22:30:53] [Server thread/INFO]: Saving worlds
+[22:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
