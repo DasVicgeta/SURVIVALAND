@@ -162,3 +162,22 @@
 [20:16:26] [Server thread/INFO]: rafa_123__xd joined the game
 [20:17:39] [Server thread/INFO]: rafa_123__xd has made the advancement [Monster Hunter]
 [20:18:29] [Server thread/INFO]: rafa_123__xd has made the advancement [Stone Age]
+[20:28:44] [Server thread/INFO]: rafa_123__xd has made the advancement [Acquire Hardware]
+[20:30:23] [Server thread/INFO]: rafa_123__xd was slain by Zombie
+[20:30:37] [Server thread/INFO]: Villager class_1646['Cleric'/1766, l='ServerLevel[world]', x=275.44, y=108.00, z=211.38] died, message: 'Cleric was slain by Zombie'
+[20:30:52] [Server thread/ERROR]: Got an error with a html body connecting to https://api.minecraftservices.com/minecraft/profile/lookup/bulk/byname: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>Microsoft-Azure-Application-Gateway/v2</center>
+</body>
+</html>
+
+[20:30:53] [Server thread/INFO]: Made raa_123__xd a server operator
+[20:31:06] [Server thread/INFO]: Made rafa_123__xd a server operator
+[20:31:11] [Server thread/INFO]: [rafa_123__xd: Teleported rafa_123__xd to Norsx_]
+[20:31:26] [Server thread/INFO]: Norsx_ was slain by Zombie
+[20:36:01] [Server thread/INFO]: Norsx_ was blown up by Creeper
+[20:42:09] [Server thread/INFO]: Norsx_ has made the advancement [Best Friends Forever]
+[20:42:34] [Server thread/INFO]: rafa_123__xd has made the advancement [What a Deal!]
+[20:44:23] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
