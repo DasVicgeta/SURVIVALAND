@@ -290,3 +290,8 @@
 [22:58:22] [Server thread/INFO]: <Norsx_> mano
 [23:04:08] [Server thread/INFO]: rafa_123__xd has made the advancement [Cover Me with Diamonds]
 [23:04:32] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
+[23:23:10] [Server thread/INFO]: rafa_123__xd lost connection: Timed out
+[23:23:10] [Server thread/INFO]: rafa_123__xd left the game
+[23:23:10] [Server thread/WARN]: handleDisconnection() called twice
+[23:23:55] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:42205] logged in with entity id 62919 at (-401.5, 98.0, 305.5)
+[23:23:55] [Server thread/INFO]: rafa_123__xd joined the game
