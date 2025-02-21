@@ -243,3 +243,16 @@
 [21:50:07] [Server thread/INFO]: rafa_123__xd tried to swim in lava
 [21:53:46] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
 [21:54:08] [Server thread/INFO]: rafa_123__xd has made the advancement [Sweet Dreams]
+[21:56:06] [Server thread/INFO]: Norsx_ has completed the challenge [Return to Sender]
+[21:56:27] [Server thread/INFO]: Norsx_ has made the advancement [A Terrible Fortress]
+[21:56:41] [Server thread/INFO]: Norsx_ has made the advancement [Not Today, Thank You]
+[21:56:42] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/29808, l='ServerLevel[world]', x=571.00, y=31.00, z=320.90] as it would cause deadlock
+[21:56:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/29811, l='ServerLevel[world]', x=571.00, y=31.00, z=320.90] as it would cause deadlock
+[21:56:45] [Server thread/INFO]: Norsx_ has made the advancement [Into Fire]
+[22:01:32] [Server thread/INFO]: Norsx_ was burned to a crisp while fighting Blaze
+[22:01:47] [Server thread/INFO]: [rafa_123__xd: Teleported Norsx_ to rafa_123__xd]
+[22:03:01] [Server thread/INFO]: [rafa_123__xd: Set Norsx_'s game mode to Spectator Mode]
+[22:03:13] [Server thread/INFO]: [rafa_123__xd: Set Norsx_'s game mode to Survival Mode]
+[22:03:18] [Server thread/INFO]: [rafa_123__xd: Teleported Norsx_ to rafa_123__xd]
+[22:03:33] [Server thread/INFO]: rafa_123__xd discovered the floor was lava
+[22:03:49] [Server thread/INFO]: [rafa_123__xd: Teleported Norsx_ to rafa_123__xd]
