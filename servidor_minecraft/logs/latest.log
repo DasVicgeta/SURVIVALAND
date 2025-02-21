@@ -228,3 +228,10 @@
 [21:25:40] [Server thread/INFO]: Norsx_ hit the ground too hard
 [21:30:21] [Server thread/INFO]: rafa_123__xd was slain by Spider
 [21:31:41] [Server thread/INFO]: Villager class_1646['Villager'/13809, l='ServerLevel[world]', x=280.53, y=92.11, z=230.20] died, message: 'Villager was slain by Zombie'
+[21:35:30] [Server thread/WARN]: rafa_123__xd moved too quickly! -3.779802684185057,-5.755490737535908,-7.33280012780628
+[21:37:17] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
+[21:38:10] [Server thread/INFO]: rafa_123__xd has made the advancement [We Need to Go Deeper]
+[21:38:26] [Server thread/INFO]: Villager class_1646['Villager'/24889, l='ServerLevel[world]', x=38.29, y=80.88, z=25.58] died, message: 'Villager was slain by Norsx_'
+[21:38:53] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/25190, l='ServerLevel[world]', x=136.00, y=31.00, z=-229.00] as it would cause deadlock
+[21:38:53] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/25193, l='ServerLevel[world]', x=136.00, y=31.00, z=-229.00] as it would cause deadlock
+[21:39:30] [Server thread/INFO]: rafa_123__xd fell from a high place
