@@ -235,3 +235,11 @@
 [21:38:53] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/25190, l='ServerLevel[world]', x=136.00, y=31.00, z=-229.00] as it would cause deadlock
 [21:38:53] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/25193, l='ServerLevel[world]', x=136.00, y=31.00, z=-229.00] as it would cause deadlock
 [21:39:30] [Server thread/INFO]: rafa_123__xd fell from a high place
+[21:45:11] [Server thread/INFO]: <rafa_123__xd> 347 ~ 315
+[21:46:50] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
+[21:48:43] [Server thread/INFO]: rafa_123__xd tried to swim in lava
+[21:48:58] [Server thread/INFO]: [rafa_123__xd: Teleported rafa_123__xd to Norsx_]
+[21:49:37] [Server thread/INFO]: Norsx_ has made the advancement [Ol' Betsy]
+[21:50:07] [Server thread/INFO]: rafa_123__xd tried to swim in lava
+[21:53:46] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
+[21:54:08] [Server thread/INFO]: rafa_123__xd has made the advancement [Sweet Dreams]
