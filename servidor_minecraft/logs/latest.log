@@ -297,3 +297,24 @@
 [23:23:55] [Server thread/INFO]: rafa_123__xd joined the game
 [23:32:11] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
 [23:32:17] [Server thread/INFO]: Norsx_ was doomed to fall by rafa_123__xd
+[23:46:54] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[23:46:54] [Server thread/INFO]: rafa_123__xd left the game
+[23:47:00] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:44367] logged in with entity id 70983 at (-412.2321331128482, 102.0, 290.44423053533427)
+[23:47:00] [Server thread/INFO]: rafa_123__xd joined the game
+[23:47:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:47:00] [Server thread/INFO]: <--[HERE]
+[23:49:27] [Server thread/INFO]: <rafa_123__xd> -176 ~ 16
+[23:49:43] [Server thread/INFO]: <rafa_123__xd> 123 ~ -293
+[23:50:26] [Server thread/INFO]: <Norsx_> xaero-waypoint:fortaleza 2:F:123:94:-293:15:false:0:Internal-the-nether-waypoints
+[23:50:31] [Server thread/INFO]: <Norsx_> xaero-waypoint:bastion:B:-176:94:16:9:false:0:Internal-the-nether-waypoints
+[23:51:26] [Server thread/INFO]: rafa_123__xd has made the advancement [Those Were the Days]
+[23:51:32] [Server thread/INFO]: Norsx_ has made the advancement [Those Were the Days]
+[23:52:21] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/71770, l='ServerLevel[world]', x=-280.00, y=31.00, z=-191.10] as it would cause deadlock
+[23:52:21] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/71772, l='ServerLevel[world]', x=-280.00, y=31.00, z=-191.10] as it would cause deadlock
+[23:52:33] [Server thread/INFO]: rafa_123__xd has made the advancement [War Pigs]
+[23:54:39] [Server thread/INFO]: rafa_123__xd was slain by Piglin
+[23:55:14] [Server thread/INFO]: Norsx_ has made the advancement [War Pigs]
+[23:55:25] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/72383, l='ServerLevel[world]', x=-305.00, y=31.00, z=-219.00] as it would cause deadlock
+[23:55:25] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/72386, l='ServerLevel[world]', x=-305.00, y=31.00, z=-219.00] as it would cause deadlock
+[23:55:35] [Server thread/INFO]: Norsx_ was slain by Piglin
+[23:55:41] [Server thread/INFO]: [rafa_123__xd: Teleported Norsx_ to rafa_123__xd]
