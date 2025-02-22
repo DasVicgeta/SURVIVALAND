@@ -581,3 +581,7 @@ java.lang.Throwable
 [21:33:57] [Server thread/DEBUG] [REI] Updating players with new displays version CEDAECFF00000001 [from CEDAECFF00000000]
 [21:34:13] [Server thread/DEBUG] [REI] Player rafa_123__xd has outdated displays version 0 [latest version: CEDAECFF00000001]
 [21:34:13] [Server thread/DEBUG] [REI] Player rafa_123__xd has outdated displays version 0 [latest version: CEDAECFF00000001], sending reset packet request.
+[21:54:24] [Server thread/DEBUG] [REI] Player rafa_123__xd has outdated displays version 0 [latest version: CEDAECFF00000001]
+[21:54:24] [Server thread/DEBUG] [REI] Player rafa_123__xd has outdated displays version 0 [latest version: CEDAECFF00000001], sending reset packet request.
+[22:00:09] [Server thread/DEBUG] [REI] Player rafa_123__xd has outdated displays version 0 [latest version: CEDAECFF00000001]
+[22:00:09] [Server thread/DEBUG] [REI] Player rafa_123__xd has outdated displays version 0 [latest version: CEDAECFF00000001], sending reset packet request.

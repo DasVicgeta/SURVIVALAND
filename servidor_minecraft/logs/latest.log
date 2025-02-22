@@ -141,3 +141,22 @@
 [21:34:12] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:36397] logged in with entity id 9 at (-410.5, 98.5625, 292.5)
 [21:34:12] [Server thread/INFO]: rafa_123__xd joined the game
 [21:34:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[21:53:54] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[21:53:54] [Server thread/INFO]: rafa_123__xd left the game
+[21:54:24] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:36491] logged in with entity id 4598 at (-405.8960793582914, 98.0, 312.6259375827331)
+[21:54:24] [Server thread/INFO]: rafa_123__xd joined the game
+[21:54:32] [Server thread/INFO]: Dupe[/127.129.209.248:58833] logged in with entity id 4867 at (-0.5, 104.0, 10.5)
+[21:54:32] [Server thread/INFO]: Dupe joined the game
+[21:54:35] [Server thread/INFO]: [rafa_123__xd: Teleported Dupe to rafa_123__xd]
+[21:59:54] [Server thread/INFO]: rafa_123__xd lost connection: Timed out
+[21:59:54] [Server thread/INFO]: rafa_123__xd left the game
+[21:59:55] [Server thread/WARN]: handleDisconnection() called twice
+[22:00:02] [Server thread/INFO]: Dupe lost connection: Timed out
+[22:00:02] [Server thread/INFO]: Dupe left the game
+[22:00:09] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:37641] logged in with entity id 6734 at (-408.5, 98.5625, 291.5)
+[22:00:09] [Server thread/INFO]: rafa_123__xd joined the game
+[22:00:18] [Server thread/INFO]: Dupe[/127.129.209.248:36217] logged in with entity id 7013 at (-407.30000001192093, 97.0, 311.69999998807907)
+[22:00:18] [Server thread/INFO]: Dupe joined the game
+[22:00:19] [Server thread/INFO]: Dupe drowned
+[22:00:23] [Server thread/INFO]: [rafa_123__xd: Teleported Dupe to rafa_123__xd]
+[22:00:35] [Server thread/INFO]: [rafa_123__xd: Teleported Dupe to rafa_123__xd]
