@@ -246,3 +246,8 @@
 [22:52:14] [Server thread/WARN]: handleDisconnection() called twice
 [22:52:41] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:52795] logged in with entity id 32917 at (-130.5938414194678, 62.52326431274413, 1245.3125)
 [22:52:41] [Server thread/INFO]: rafa_123__xd joined the game
+[22:56:41] [Server thread/INFO]: rafa_123__xd lost connection: Timed out
+[22:56:41] [Server thread/INFO]: rafa_123__xd left the game
+[22:59:08] [Server thread/INFO]: Norsx_ has made the advancement [Eye Spy]
+[23:03:06] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[23:03:06] [Server thread/INFO]: Norsx_ left the game
