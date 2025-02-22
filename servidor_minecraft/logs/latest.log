@@ -3,3 +3,22 @@
 [00:03:06] [Server thread/INFO]: [rafa_123__xd: Kicked Norsx_: Kicked by an operator]
 [00:03:06] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
 [00:03:06] [Server thread/INFO]: Norsx_ left the game
+[00:06:57] [Server thread/INFO]: Norsx_[/127.102.42.146:52057] logged in with entity id 79014 at (-403.30000001192093, 97.0, 311.30000001192093)
+[00:06:57] [Server thread/INFO]: Norsx_ joined the game
+[00:10:39] [Server thread/INFO]: Norsx_ was doomed to fall by rafa_123__xd
+[00:11:51] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
+[00:11:54] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[00:11:54] [Server thread/INFO]: rafa_123__xd left the game
+[00:12:24] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[00:12:24] [Server thread/INFO]: Norsx_ left the game
+[00:12:45] [Server thread/INFO]: Stopping the server
+[00:12:46] [Server thread/INFO]: Stopping server
+[00:12:46] [Server thread/INFO]: Saving players
+[00:12:46] [Server thread/INFO]: Saving worlds
+[00:12:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:12:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:12:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:12:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:12:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:12:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:12:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
