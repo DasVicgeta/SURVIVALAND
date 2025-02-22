@@ -160,3 +160,16 @@
 [22:00:19] [Server thread/INFO]: Dupe drowned
 [22:00:23] [Server thread/INFO]: [rafa_123__xd: Teleported Dupe to rafa_123__xd]
 [22:00:35] [Server thread/INFO]: [rafa_123__xd: Teleported Dupe to rafa_123__xd]
+[22:08:24] [Server thread/INFO]: rafa_123__xd tried to swim in lava
+[22:12:49] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/13941, l='ServerLevel[world]', x=176.90, y=31.00, z=-282.00] as it would cause deadlock
+[22:12:49] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/13943, l='ServerLevel[world]', x=176.90, y=31.00, z=-282.00] as it would cause deadlock
+[22:13:24] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14416, l='ServerLevel[world]', x=-166.00, y=88.00, z=-375.00] as it would cause deadlock
+[22:13:24] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14418, l='ServerLevel[world]', x=-166.00, y=88.00, z=-375.00] as it would cause deadlock
+[22:15:21] [Server thread/INFO]: rafa_123__xd has completed the challenge [Hot Tourist Destinations]
+[22:15:23] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15871, l='ServerLevel[world]', x=29.00, y=31.00, z=-418.00] as it would cause deadlock
+[22:15:23] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15874, l='ServerLevel[world]', x=19.00, y=31.00, z=-418.00] as it would cause deadlock
+[22:15:23] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15876, l='ServerLevel[world]', x=29.00, y=31.00, z=-418.00] as it would cause deadlock
+[22:15:23] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15879, l='ServerLevel[world]', x=19.00, y=31.00, z=-418.00] as it would cause deadlock
+[22:18:12] [Server thread/INFO]: rafa_123__xd has made the advancement [A Terrible Fortress]
+[22:22:28] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19660, l='ServerLevel[world]', x=405.00, y=31.00, z=-406.00] as it would cause deadlock
+[22:22:28] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19662, l='ServerLevel[world]', x=405.00, y=31.00, z=-406.00] as it would cause deadlock

@@ -253,6 +253,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-21 20:49:55 +0000",
       "minecraft:piglin": "2025-02-21 23:53:54 +0000",
+      "minecraft:enderman": "2025-02-22 22:17:39 +0000",
       "minecraft:spider": "2025-02-21 20:17:39 +0000",
       "minecraft:zombie": "2025-02-21 20:49:58 +0000"
     },
@@ -1752,9 +1753,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-21 23:50:57 +0000",
       "minecraft:nether_wastes": "2025-02-21 22:00:44 +0000",
-      "minecraft:soul_sand_valley": "2025-02-21 21:38:11 +0000"
+      "minecraft:soul_sand_valley": "2025-02-21 21:38:11 +0000",
+      "minecraft:basalt_deltas": "2025-02-22 22:07:47 +0000",
+      "minecraft:warped_forest": "2025-02-22 22:15:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
@@ -2173,6 +2176,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-02-22 21:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-22 22:18:12 +0000"
     },
     "done": true
   },
