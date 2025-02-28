@@ -142,3 +142,9 @@
 [21:19:46] [Server thread/INFO]: There are 0 of a max of 20 players online: 
 [21:24:30] [Server thread/INFO]: Norsx_[/127.102.42.146:52195] logged in with entity id 8 at (-397.0514800407702, 94.9375, 295.5592585268349)
 [21:24:30] [Server thread/INFO]: Norsx_ joined the game
+[21:43:17] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[21:43:17] [Server thread/INFO]: Norsx_ left the game
+[21:43:17] [Server thread/WARN]: handleDisconnection() called twice
+[21:44:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:45:58] [Server thread/INFO]: Norsx_[/127.102.42.146:42909] logged in with entity id 3990 at (-116.66826459678956, 32.0, -132.10687248140033)
+[21:45:58] [Server thread/INFO]: Norsx_ joined the game

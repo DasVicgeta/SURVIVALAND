@@ -581,3 +581,5 @@ java.lang.Throwable
 [21:10:52] [Server thread/DEBUG] [REI] Updating players with new displays version C66CA9100000001 [from C66CA9100000000]
 [21:24:30] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: C66CA9100000001]
 [21:24:30] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: C66CA9100000001], sending reset packet request.
+[21:45:58] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: C66CA9100000001]
+[21:45:58] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: C66CA9100000001], sending reset packet request.
