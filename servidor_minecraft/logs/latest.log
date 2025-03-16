@@ -168,3 +168,10 @@
 [18:06:09] [Server thread/INFO]: Norsx_ lost connection: Disconnected
 [18:06:09] [Server thread/INFO]: Norsx_ left the game
 [18:07:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:21:22] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:60005] logged in with entity id 2134 at (67.30000001192093, 55.0, 732.4158153676461)
+[18:21:22] [Server thread/INFO]: rafa_123__xd joined the game
+[18:22:21] [Server thread/INFO]: Norsx_[/127.102.42.146:47167] logged in with entity id 2538 at (112.10137687175234, 30.412879976934065, 457.0229654004226)
+[18:22:21] [Server thread/INFO]: Norsx_ joined the game
+[18:22:24] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[18:22:24] [Server thread/INFO]: Norsx_ left the game
+[18:22:26] [Server thread/INFO]: [rafa_123__xd: Gamerule keepInventory is now set to: true]
