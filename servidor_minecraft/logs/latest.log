@@ -146,3 +146,15 @@
 [17:51:56] [Server thread/INFO]: <rafa_123__xd> estoy ayudando con las cosas
 [17:51:59] [Server thread/INFO]: <Norsx_> ok
 [17:52:10] [Server thread/INFO]: <Norsx_> apurate que no tengo waypoint del portal
+[17:56:06] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[17:56:06] [Server thread/INFO]: Norsx_ left the game
+[17:56:06] [Server thread/WARN]: handleDisconnection() called twice
+[17:56:18] [Server thread/INFO]: Norsx_[/127.102.42.146:46033] logged in with entity id 1150 at (68.43444485074002, 57.0, 734.82384830607)
+[17:56:18] [Server thread/INFO]: Norsx_ joined the game
+[17:57:18] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[17:57:18] [Server thread/INFO]: Norsx_ left the game
+[17:57:47] [Server thread/INFO]: Norsx_[/127.102.42.146:58297] logged in with entity id 1236 at (68.43444485074002, 57.0, 734.82384830607)
+[17:57:47] [Server thread/INFO]: Norsx_ joined the game
+[18:02:45] [Server thread/INFO]: <rafa_123__xd> xaero-waypoint:Portal:P:-39:94:39:5:false:0:Internal-the-nether-waypoints
+[18:03:00] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[18:03:00] [Server thread/INFO]: rafa_123__xd left the game
