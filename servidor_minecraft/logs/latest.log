@@ -193,3 +193,17 @@
 [18:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17158ms or 343 ticks behind
 [18:44:16] [Server thread/INFO]: Norsx_ has completed the challenge [Subspace Bubble]
 [18:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[18:57:02] [Server thread/INFO]: <rafa_123__xd> 640 ~ 8288
+[18:57:41] [Server thread/WARN]: rafa_123__xd moved too quickly! 7.91001427941751,0.2712241076924897,-6.153400743658494
+[18:57:41] [Server thread/WARN]: Norsx_ moved too quickly! 7.285311882205974,2.8291870918577047,-6.512617813365068
+[19:00:28] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[19:00:28] [Server thread/INFO]: rafa_123__xd left the game
+[19:02:16] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:53609] logged in with entity id 13071 at (671.5063998262061, 74.0, 8316.39627991431)
+[19:02:16] [Server thread/INFO]: rafa_123__xd joined the game
+[19:06:46] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[19:06:46] [Server thread/INFO]: rafa_123__xd left the game
+[19:08:59] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:58985] logged in with entity id 14743 at (666.5223986562085, 72.57969854367613, 8329.234832867713)
+[19:08:59] [Server thread/INFO]: rafa_123__xd joined the game
+[19:09:14] [Server thread/INFO]: Norsx_ experienced kinetic energy
+[19:12:44] [Server thread/INFO]: rafa_123__xd has made the advancement [Best Friends Forever]
+[19:13:17] [Server thread/INFO]: Villager class_1646['Villager'/11208, l='ServerLevel[world]', x=654.70, y=89.00, z=8281.30] died, message: 'Villager was slain by Zombie'

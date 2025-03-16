@@ -17,6 +17,7 @@
       "minecraft:lukewarm_ocean": "2025-02-22 22:51:11 +0000",
       "minecraft:stony_shore": "2025-02-21 20:16:15 +0000",
       "minecraft:ocean": "2025-02-21 20:25:32 +0000",
+      "minecraft:jungle": "2025-03-16 18:54:23 +0000",
       "minecraft:cherry_grove": "2025-02-21 20:12:05 +0000",
       "minecraft:meadow": "2025-02-21 20:05:27 +0000",
       "minecraft:savanna": "2025-02-21 22:25:45 +0000",
@@ -642,6 +643,7 @@
       "mutton": "2025-02-21 22:34:15 +0000",
       "apple": "2025-02-24 22:19:36 +0000",
       "bread": "2025-02-21 20:17:02 +0000",
+      "porkchop": "2025-03-16 19:04:25 +0000",
       "golden_carrot": "2025-02-24 22:20:52 +0000",
       "carrot": "2025-02-21 22:56:14 +0000"
     },
@@ -2421,9 +2423,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-16 19:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-16 19:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-03-16 18:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-16 19:05:08 +0000"
     },
     "done": true
   },
