@@ -2354,15 +2354,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
+      "has_gold_nugget": "2025-02-28 23:03:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
+      "has_gold_nugget": "2025-02-28 23:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-28 23:06:14 +0000"
     },
     "done": true
   },
@@ -2372,9 +2378,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_gold_nugget": "2025-02-28 23:03:41 +0000"
+      "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
     },
     "done": true
   },
@@ -2396,12 +2408,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-28 23:03:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
@@ -2411,12 +2417,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-02-28 23:06:14 +0000"
     },
     "done": true
   },
