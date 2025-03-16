@@ -12,6 +12,7 @@
       "minecraft:beach": "2025-02-22 22:48:15 +0000",
       "minecraft:forest": "2025-02-21 20:16:13 +0000",
       "minecraft:sparse_jungle": "2025-02-22 22:51:56 +0000",
+      "minecraft:deep_ocean": "2025-03-16 18:44:16 +0000",
       "minecraft:river": "2025-02-21 20:09:52 +0000",
       "minecraft:lukewarm_ocean": "2025-02-22 22:51:11 +0000",
       "minecraft:stony_shore": "2025-02-21 20:16:15 +0000",
@@ -2417,6 +2418,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-28 23:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-16 18:44:16 +0000"
     },
     "done": true
   },

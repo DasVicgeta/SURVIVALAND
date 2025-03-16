@@ -185,3 +185,11 @@
 [18:33:52] [Server thread/INFO]: Norsx_ tried to swim in lava
 [18:33:58] [Server thread/INFO]: [rafa_123__xd: Gamerule keepInventory is now set to: false]
 [18:34:09] [Server thread/INFO]: Norsx_ was doomed to fall by rafa_123__xd
+[18:43:23] [Worker-Main-8/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/6828, l='ServerLevel[world]', x=130.00, y=31.00, z=1162.00] as it would cause deadlock
+[18:43:23] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/6830, l='ServerLevel[world]', x=130.00, y=31.00, z=1162.00] as it would cause deadlock
+[18:43:23] [Worker-Main-8/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/6839, l='ServerLevel[world]', x=28.00, y=31.00, z=1155.00] as it would cause deadlock
+[18:43:23] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/6842, l='ServerLevel[world]', x=28.00, y=31.00, z=1155.00] as it would cause deadlock
+[18:44:00] [Server thread/INFO]: rafa_123__xd has completed the challenge [Subspace Bubble]
+[18:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17158ms or 343 ticks behind
+[18:44:16] [Server thread/INFO]: Norsx_ has completed the challenge [Subspace Bubble]
+[18:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
