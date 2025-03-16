@@ -158,3 +158,13 @@
 [18:02:45] [Server thread/INFO]: <rafa_123__xd> xaero-waypoint:Portal:P:-39:94:39:5:false:0:Internal-the-nether-waypoints
 [18:03:00] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
 [18:03:00] [Server thread/INFO]: rafa_123__xd left the game
+[18:03:17] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:50637] logged in with entity id 1584 at (67.30000001192093, 55.0, 732.4158153676461)
+[18:03:17] [Server thread/INFO]: Connection closed during protocol change
+[18:03:17] [Server thread/INFO]: rafa_123__xd joined the game
+[18:03:17] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[18:03:17] [Server thread/INFO]: rafa_123__xd left the game
+[18:05:24] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2017, l='ServerLevel[world]', x=303.00, y=85.00, z=643.00] as it would cause deadlock
+[18:05:24] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2020, l='ServerLevel[world]', x=303.00, y=85.00, z=643.00] as it would cause deadlock
+[18:06:09] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[18:06:09] [Server thread/INFO]: Norsx_ left the game
+[18:07:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
