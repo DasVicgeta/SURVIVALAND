@@ -209,3 +209,21 @@
 [19:13:17] [Server thread/INFO]: Villager class_1646['Villager'/11208, l='ServerLevel[world]', x=654.70, y=89.00, z=8281.30] died, message: 'Villager was slain by Zombie'
 [19:15:11] [Server thread/INFO]: Villager class_1646['Villager'/11210, l='ServerLevel[world]', x=673.30, y=79.00, z=8218.65] died, message: 'Villager was slain by Zombie Villager'
 [19:23:26] [Server thread/INFO]: rafa_123__xd was blown up by Creeper
+[19:24:22] [Server thread/INFO]: rafa_123__xd was killed by Witch using magic
+[19:25:51] [Server thread/INFO]: rafa_123__xd was blown up by Creeper
+[19:25:53] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Spectator Mode]
+[19:26:08] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Creative Mode]
+[19:26:53] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Spectator Mode]
+[19:26:55] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Survival Mode]
+[19:27:17] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Creative Mode]
+[19:27:37] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Survival Mode]
+[19:29:40] [Server thread/INFO]: [rafa_123__xd: Kicked Norsx_: Kicked by an operator]
+[19:29:40] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
+[19:29:40] [Server thread/INFO]: Norsx_ left the game
+[19:29:53] [Server thread/INFO]: Norsx_[/127.102.42.146:33557] logged in with entity id 19163 at (663.3500225326572, 69.0, 8335.697079667736)
+[19:29:53] [Server thread/INFO]: Norsx_ joined the game
+[19:29:59] [Server thread/INFO]: Villager class_1646['Villager'/10823, l='ServerLevel[world]', x=638.87, y=83.00, z=8269.76] died, message: 'Villager was slain by Zombie'
+[19:31:16] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
+[19:32:20] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
+[19:32:21] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[19:32:21] [Server thread/INFO]: rafa_123__xd left the game

@@ -268,7 +268,8 @@
       "minecraft:spider": "2025-02-21 20:17:39 +0000",
       "minecraft:piglin_brute": "2025-02-28 23:12:22 +0000",
       "minecraft:zombie": "2025-02-21 20:49:58 +0000",
-      "minecraft:creeper": "2025-02-22 22:47:25 +0000"
+      "minecraft:creeper": "2025-02-22 22:47:25 +0000",
+      "minecraft:zombie_villager": "2025-03-16 19:30:32 +0000"
     },
     "done": false
   },
@@ -2932,6 +2933,18 @@
       "minecraft:woods": "2025-03-16 19:12:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-16 19:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-16 19:26:10 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }
