@@ -2934,15 +2934,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-03-16 19:31:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-03-16 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-16 19:31:19 +0000"
     },
     "done": true
   },
