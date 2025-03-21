@@ -196,3 +196,10 @@
 [22:30:35] [Server thread/INFO]: Norsx_ joined the game
 [22:32:29] [Server thread/INFO]: Norsx_ lost connection: Disconnected
 [22:32:29] [Server thread/INFO]: Norsx_ left the game
+[22:37:15] [Server thread/INFO]: Norsx_[/127.102.42.146:59085] logged in with entity id 1518 at (71.99931381102243, 70.0, -287.8333158897085)
+[22:37:15] [Server thread/INFO]: Norsx_ joined the game
+[22:38:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:38:13] [Server thread/INFO]: timeset day<--[HERE]
+[22:38:17] [Server thread/INFO]: Set the time to 1000
+[22:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[22:46:13] [Server thread/WARN]: Norsx_ moved too quickly! -2.1658065352313542,-0.24299753675219904,10.019299890296566
