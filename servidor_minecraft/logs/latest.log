@@ -1,5 +1,5 @@
-[19:47:49] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[19:47:50] [main/INFO]: Loading 103 mods:
+[22:26:38] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[22:26:40] [main/INFO]: Loading 103 mods:
 	- alternate-current 1.9.0
 	- architectury 9.2.14
 	- c2me 0.2.0+alpha.11.16
@@ -117,92 +117,82 @@
 	- skinrestorer 2.2.1+1.20-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
 	- starlight 1.1.2+fabric.dbc156f
-[19:47:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/TECNICRAFT-MXS/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:47:50] [main/INFO]: Compatibility level set to JAVA_16
-[19:47:51] [main/INFO]: Compatibility level set to JAVA_17
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:47:51] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
-[19:47:51] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[19:47:51] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[19:47:51] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[19:47:51] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
-[19:47:51] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 1 override(s) found
-[19:47:51] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:47:51] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 4 override(s) found
-[19:47:51] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
-[19:47:51] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
-[19:47:51] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
-[19:47:51] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
-[19:47:51] [main/INFO]: Applying Nashorn fix
-[19:47:52] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
-[19:47:53] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[19:47:53] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[19:47:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:47:56] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[19:47:56] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[19:47:56] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[19:47:56] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[19:47:56] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[19:48:00] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[19:48:00] [main/INFO]: Vanilla bootstrap took 6634 milliseconds
-[19:48:01] [main/INFO]: Loading Collective version 7.94.
-[19:48:01] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[19:48:01] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
-[19:48:01] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
-[19:48:01] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
-[19:48:01] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[19:48:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:48:02] [main/INFO]: Bypassed Mojang DFU
-[19:48:05] [main/INFO]: Loaded 7 recipes
-[19:48:05] [main/INFO]: Loaded 1271 advancements
-[19:48:05] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.870 ms
-[19:48:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:48:05] [Server thread/INFO]: Loading properties
-[19:48:05] [Server thread/INFO]: Default game type: SURVIVAL
-[19:48:05] [Server thread/INFO]: Generating keypair
-[19:48:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:48:05] [Server thread/INFO]: Using epoll channel type
-[19:48:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:48:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:48:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:48:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:48:05] [Server thread/INFO]: Preparing level "world"
-[19:48:05] [Server thread/INFO]: Enforcing safe world random access
-[19:48:12] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[19:48:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:48:13] [Server thread/INFO]: Time elapsed: 490 ms
-[19:48:13] [Server thread/INFO]: Done (7.541s)! For help, type "help"
-[19:48:13] [Server thread/WARN]: Dedicated server took 25.372 seconds to load
-[19:48:39] [Server thread/INFO]: rafa_123__xd[/127.129.209.248:55829] logged in with entity id 1 at (62.5, 76.0, -92.5)
-[19:48:39] [Server thread/INFO]: rafa_123__xd joined the game
-[19:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
-[19:52:35] [Server thread/INFO]: rafa_123__xd has made the advancement [Stone Age]
-[19:52:59] [Server thread/INFO]: rafa_123__xd has made the advancement [Getting an Upgrade]
-[20:00:40] [Server thread/INFO]: rafa_123__xd was shot by Skeleton
-[20:05:03] [Server thread/INFO]: rafa_123__xd has made the advancement [Monster Hunter]
-[20:05:45] [Server thread/INFO]: rafa_123__xd has made the advancement [Sweet Dreams]
-[20:11:54] [Server thread/INFO]: rafa_123__xd has made the advancement [Acquire Hardware]
-[20:12:36] [Server thread/INFO]: Villager class_1646['Nitwit'/5315, l='ServerLevel[world]', x=40.72, y=91.17, z=-882.64] died, message: 'Nitwit was slain by rafa_123__xd'
-[20:14:15] [Server thread/INFO]: rafa_123__xd suffocated in a wall
-[20:24:23] [Server thread/INFO]: rafa_123__xd has made the advancement [What a Deal!]
-[20:37:40] [Server thread/INFO]: rafa_123__xd was shot by Pillager
-[20:39:16] [Server thread/INFO]: rafa_123__xd has made the advancement [Ol' Betsy]
-[20:39:16] [Server thread/INFO]: rafa_123__xd has made the advancement [Take Aim]
-[20:44:58] [Server thread/INFO]: rafa_123__xd has made the advancement [Suit Up]
+[22:26:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/TECNICRAFT-MXS/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:26:41] [main/INFO]: Compatibility level set to JAVA_16
+[22:26:41] [main/INFO]: Compatibility level set to JAVA_17
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[22:26:42] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
+[22:26:42] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[22:26:42] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[22:26:42] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[22:26:42] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[22:26:42] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 1 override(s) found
+[22:26:43] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:26:43] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 4 override(s) found
+[22:26:43] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[22:26:43] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[22:26:43] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[22:26:43] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[22:26:43] [main/INFO]: Applying Nashorn fix
+[22:26:45] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[22:26:45] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[22:26:45] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[22:26:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:26:51] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[22:26:51] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[22:26:51] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[22:26:51] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[22:26:51] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[22:26:59] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[22:26:59] [main/INFO]: Vanilla bootstrap took 12528 milliseconds
+[22:27:00] [main/INFO]: Loading Collective version 7.94.
+[22:27:00] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[22:27:00] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[22:27:00] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[22:27:00] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (5 ms)
+[22:27:04] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[22:27:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:27:05] [main/INFO]: Bypassed Mojang DFU
+[22:27:10] [main/INFO]: Loaded 7 recipes
+[22:27:10] [main/INFO]: Loaded 1271 advancements
+[22:27:11] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.830 ms
+[22:27:11] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:27:11] [Server thread/INFO]: Loading properties
+[22:27:11] [Server thread/INFO]: Default game type: SURVIVAL
+[22:27:11] [Server thread/INFO]: Generating keypair
+[22:27:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:27:11] [Server thread/INFO]: Using epoll channel type
+[22:27:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:27:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:27:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:27:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:27:12] [Server thread/INFO]: Preparing level "world"
+[22:27:12] [Server thread/INFO]: Enforcing safe world random access
+[22:27:30] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[22:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:27:30] [Server thread/INFO]: Time elapsed: 25 ms
+[22:27:30] [Server thread/INFO]: Done (18.300s)! For help, type "help"
+[22:27:30] [Server thread/WARN]: Dedicated server took 63.877 seconds to load
+[22:27:54] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:45219] logged in with entity id 2 at (66.5, 73.0, -285.5)
+[22:27:54] [Server thread/INFO]: MrGameBlaze joined the game
+[22:30:35] [Server thread/INFO]: Norsx_[/127.102.42.146:46357] logged in with entity id 664 at (59.5, 70.0, -296.5)
+[22:30:35] [Server thread/INFO]: Norsx_ joined the game
+[22:32:29] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[22:32:29] [Server thread/INFO]: Norsx_ left the game
