@@ -220,3 +220,13 @@
 [21:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
 [21:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
 [21:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
+[21:48:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 3b533269-1762-3c78-a36f-8d33a391e17c timed out
+[21:48:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Norsx_
+[21:48:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Norsx_
+[21:48:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
+[21:48:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
+[21:48:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[21:48:11] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[21:48:11] [Server thread/INFO]: Norsx_ left the game
+[21:48:11] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
+[21:49:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
