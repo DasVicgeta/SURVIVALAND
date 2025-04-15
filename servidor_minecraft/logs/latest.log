@@ -303,3 +303,7 @@
 [17:01:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
 [17:01:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
 [17:01:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[17:02:37] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[17:02:37] [Server thread/INFO]: Norsx_ left the game
+[17:02:37] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
+[17:03:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
