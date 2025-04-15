@@ -1,5 +1,5 @@
-[16:10:56] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.13
-[16:10:59] [main/INFO]: Loading 87 mods:
+[21:19:21] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.13
+[21:19:22] [main/INFO]: Loading 87 mods:
 	- alternate-current 1.9.0
 	- architectury 16.1.4
 	- c2me 0.3.3+alpha.0.2+1.21.5
@@ -99,219 +99,124 @@
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
 	- voicechat 1.21.5-2.5.29
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
-[16:10:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:11:00] [main/INFO]: Compatibility level set to JAVA_16
-[16:11:00] [main/INFO]: Compatibility level set to JAVA_18
-[16:11:00] [main/INFO]: Compatibility level set to JAVA_21
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[16:11:01] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[16:11:01] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@16.1.4 (*) (defined in c2me)
-[16:11:01] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[16:11:01] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[16:11:01] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[16:11:01] [main/INFO]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
-[16:11:03] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[16:11:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:11:24] [main/INFO]: Loading Collective version 8.2.
-[16:11:24] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[16:11:25] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[16:11:25] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[16:11:25] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[16:11:25] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[16:11:25] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[16:11:25] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[16:11:25] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[16:11:25] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[16:11:25] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[16:11:27] [main/INFO]: [voicechat] Compatibility version 18
-[16:11:27] [main/INFO]: [voicechat] Loading plugins
-[16:11:27] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[16:11:27] [main/INFO]: [voicechat] Initializing plugins
-[16:11:27] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[16:11:27] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[16:11:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:11:34] [main/INFO]: Loaded 1373 recipes
-[16:11:34] [main/INFO]: Loaded 1484 advancements
-[16:11:35] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 8.416 ms
-[16:11:35] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[16:11:35] [Server thread/INFO]: Loading properties
-[16:11:35] [Server thread/INFO]: Default game type: SURVIVAL
-[16:11:35] [Server thread/INFO]: Generating keypair
-[16:11:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:11:35] [Server thread/INFO]: Using epoll channel type
-[16:11:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:11:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:11:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:11:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:11:36] [Server thread/INFO]: Preparing level "world"
-[16:11:36] [Server thread/INFO]: Enforcing safe world random access
-[16:11:38] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.327 s
-[16:11:39] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[16:11:40] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 11.88 ms
-[16:11:40] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 8.649 ms
-[16:11:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[16:11:50] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
-[16:11:51] [c2me-worker-0/INFO]: Preparing spawn area: 8%
-[16:11:51] [c2me-worker-0/INFO]: Preparing spawn area: 8%
-[16:11:52] [minecraft_overworld - Light/INFO]: Preparing spawn area: 8%
-[16:11:53] [Server thread/INFO]: Time elapsed: 12863 ms
-[16:11:53] [Server thread/INFO]: Done (17.060s)! For help, type "help"
-[16:11:53] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[16:11:53] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[16:11:53] [Server thread/INFO]: [REI] Plugins (3):
-[16:11:53] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[16:11:53] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[16:11:53] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[16:11:53] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[16:11:53] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 4.572 ms, totaling 321.1 ms.
-[16:11:53] [Server thread/INFO]: [REI] ****************************************
-[16:11:53] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[16:11:53] [Server thread/INFO]: [REI] Plugins (3):
-[16:11:53] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[16:11:53] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[16:11:53] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[16:11:53] [Server thread/INFO]: [REI] ****************************************
-[16:11:53] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 5.834 ms, totaling 268.9 ms.
-[16:11:53] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[16:11:53] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.115.54.55:24454
-[16:12:07] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:52136] logged in with entity id 66 at (4.2269189458066965, 70.0, -4.727349642896627)
-[16:12:07] [Server thread/INFO]: MrGameBlaze joined the game
-[16:12:08] [Server thread/INFO]: [voicechat] Received secret request of MrGameBlaze (18)
-[16:12:08] [Server thread/INFO]: [voicechat] Sent secret to MrGameBlaze
-[16:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[16:12:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5c281a75-0961-38af-947a-e8220a273a73
-[16:12:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5c281a75-0961-38af-947a-e8220a273a73
-[16:12:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MrGameBlaze (5c281a75-0961-38af-947a-e8220a273a73) successfully connected to voice chat
-[16:12:15] [Server thread/INFO]: Norsx_[/100.84.44.112:50289] logged in with entity id 341 at (7.5, 68.0, 4.5)
-[16:12:15] [Server thread/INFO]: Norsx_ joined the game
-[16:12:18] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
-[16:12:18] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
-[16:12:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
-[16:12:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
-[16:12:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
-[16:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
-[16:12:57] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[16:12:57] [Server thread/INFO]: MrGameBlaze left the game
-[16:12:57] [Server thread/INFO]: [voicechat] Disconnecting client MrGameBlaze
-[16:14:15] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:52500] logged in with entity id 563 at (10.33257847049993, 69.0, 4.308424479095716)
-[16:14:15] [Server thread/INFO]: MrGameBlaze joined the game
-[16:14:16] [Server thread/INFO]: [voicechat] Received secret request of MrGameBlaze (18)
-[16:14:16] [Server thread/INFO]: [voicechat] Sent secret to MrGameBlaze
-[16:14:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5c281a75-0961-38af-947a-e8220a273a73
-[16:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5c281a75-0961-38af-947a-e8220a273a73
-[16:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MrGameBlaze (5c281a75-0961-38af-947a-e8220a273a73) successfully connected to voice chat
-[16:16:37] [Server thread/INFO]: Norsx_ has made the advancement [Stone Age]
-[16:18:25] [Server thread/INFO]: Norsx_ has made the advancement [Getting an Upgrade]
-[16:18:44] [Server thread/INFO]: Norsx_ has made the advancement [Monster Hunter]
-[16:18:56] [Server thread/INFO]: Norsx_ has made the advancement [Sweet Dreams]
-[16:18:59] [Server thread/INFO]: MrGameBlaze has made the advancement [Stone Age]
-[16:19:28] [Server thread/INFO]: MrGameBlaze has made the advancement [Monster Hunter]
-[16:19:39] [Server thread/INFO]: MrGameBlaze has made the advancement [Sweet Dreams]
-[16:21:28] [Server thread/INFO]: MrGameBlaze has made the advancement [Getting an Upgrade]
-[16:27:24] [Server thread/WARN]: Norsx_ moved wrongly!
-[16:30:17] [Server thread/INFO]: Villager class_1646['Farmer'/35, l='ServerLevel[world]', x=-47.70, y=65.00, z=6.30] died, message: 'Farmer was slain by MrGameBlaze'
-[16:35:22] [Server thread/INFO]: MrGameBlaze has made the advancement [Acquire Hardware]
-[16:39:28] [Server thread/INFO]: MrGameBlaze has made the advancement [What a Deal!]
-[16:39:40] [Server thread/INFO]: Norsx_ has made the advancement [What a Deal!]
-[16:39:55] [Server thread/INFO]: Norsx_ has made the advancement [Acquire Hardware]
-[16:40:02] [Server thread/INFO]: MrGameBlaze has made the advancement [Take Aim]
-[16:40:12] [Server thread/INFO]: Norsx_ has made the advancement [Take Aim]
-[16:49:57] [Server thread/INFO]: MrGameBlaze has made the advancement [Isn't It Iron Pick]
-[16:53:23] [Server thread/INFO]: MrGameBlaze has made the advancement [Diamonds!]
-[16:54:26] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[16:54:26] [Server thread/INFO]: MrGameBlaze left the game
-[16:54:26] [Server thread/INFO]: [voicechat] Disconnecting client MrGameBlaze
-[16:56:15] [Server thread/INFO]: Norsx_ has made the advancement [Best Friends Forever]
-[16:57:34] [Server thread/INFO]: Norsx_ was slain by Iron Golem
-[17:00:30] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:33] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:36] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:37] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:38] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:38] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:38] [Server thread/INFO]: <Norsx_> Norsx_t
-[17:00:39] [Server thread/INFO]: <Norsx_> Norsx_tt
-[17:00:40] [Server thread/INFO]: <Norsx_> Norsx_tt
-[17:00:40] [Server thread/INFO]: <Norsx_> Norsx_tt}
-[17:00:41] [Server thread/INFO]: <Norsx_> Norsx_tt}
-[17:00:43] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:43] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:44] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:44] [Server thread/INFO]: <Norsx_> Norsx_
-[17:00:47] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:48] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:48] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:49] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:49] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:50] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:50] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:51] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:51] [Server thread/INFO]: <Norsx_> Norsx_}
-[17:00:52] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:53] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:54] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:54] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:54] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:55] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:55] [Server thread/INFO]: <Norsx_> Norsx_}t
-[17:00:55] [Server thread/INFO]: Norsx_ lost connection: Kicked for spamming
-[17:00:55] [Server thread/INFO]: Norsx_ left the game
-[17:00:55] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
-[17:00:55] [Server thread/WARN]: handleDisconnection() called twice
-[17:00:55] [Server thread/INFO]: Norsx_ (/100.84.44.112:54143) lost connection: Disconnected
-[17:01:02] [Server thread/INFO]: Norsx_[/100.84.44.112:54146] logged in with entity id 11029 at (-51.829777762137795, 72.00317184222398, 11.998945605446615)
-[17:01:02] [Server thread/INFO]: Norsx_ joined the game
-[17:01:03] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
-[17:01:03] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
-[17:01:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
-[17:01:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
-[17:01:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
-[17:02:37] [Server thread/INFO]: Norsx_ lost connection: Disconnected
-[17:02:37] [Server thread/INFO]: Norsx_ left the game
-[17:02:37] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
-[17:03:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:25:41] [Server thread/INFO]: Norsx_[/100.84.44.112:54415] logged in with entity id 11067 at (-51.829777762137795, 67.87282033284686, 11.998945605446615)
-[17:25:41] [Server thread/INFO]: Norsx_ joined the game
-[17:25:41] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
-[17:25:41] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
-[17:25:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
-[17:25:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
-[17:25:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
-[17:30:21] [Server thread/INFO]: <Norsx_> trtrrrrr
+[21:19:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:19:23] [main/INFO]: Compatibility level set to JAVA_16
+[21:19:23] [main/INFO]: Compatibility level set to JAVA_18
+[21:19:23] [main/INFO]: Compatibility level set to JAVA_21
+[21:19:23] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[21:19:23] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[21:19:23] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[21:19:23] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[21:19:23] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[21:19:23] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[21:19:23] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:19:24] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@16.1.4 (*) (defined in c2me)
+[21:19:24] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[21:19:24] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[21:19:24] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[21:19:24] [main/INFO]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
+[21:19:25] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[21:19:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:19:48] [main/INFO]: Loading Collective version 8.2.
+[21:19:49] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[21:19:49] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[21:19:49] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[21:19:49] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[21:19:49] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[21:19:49] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[21:19:49] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[21:19:49] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[21:19:49] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[21:19:49] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[21:19:50] [main/INFO]: [voicechat] Compatibility version 18
+[21:19:50] [main/INFO]: [voicechat] Loading plugins
+[21:19:50] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:19:50] [main/INFO]: [voicechat] Initializing plugins
+[21:19:50] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:19:50] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[21:19:50] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:19:58] [main/INFO]: Loaded 1373 recipes
+[21:19:58] [main/INFO]: Loaded 1484 advancements
+[21:19:59] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 13.41 ms
+[21:19:59] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[21:19:59] [Server thread/INFO]: Loading properties
+[21:19:59] [Server thread/INFO]: Default game type: SURVIVAL
+[21:19:59] [Server thread/INFO]: Generating keypair
+[21:19:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:20:00] [Server thread/INFO]: Using epoll channel type
+[21:20:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:20:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:20:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:20:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:20:00] [Server thread/INFO]: Preparing level "world"
+[21:20:00] [Server thread/INFO]: Enforcing safe world random access
+[21:20:02] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.414 s
+[21:20:03] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[21:20:03] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 17.22 ms
+[21:20:03] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 24.24 ms
+[21:20:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[21:20:14] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[21:20:15] [c2me-worker-0/INFO]: Preparing spawn area: 34%
+[21:20:15] [c2me-worker-0/INFO]: Preparing spawn area: 44%
+[21:20:16] [Server thread/INFO]: Time elapsed: 12324 ms
+[21:20:16] [Server thread/INFO]: Done (15.766s)! For help, type "help"
+[21:20:16] [Server thread/INFO]: [REI] ========================================
+[21:20:16] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[21:20:16] [Server thread/INFO]: [REI] Plugins (3):
+[21:20:16] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[21:20:16] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[21:20:16] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[21:20:16] [Server thread/INFO]: [REI] ========================================
+[21:20:16] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 29.46 ms, totaling 485.2 ms.
+[21:20:16] [Server thread/INFO]: [REI] ****************************************
+[21:20:16] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[21:20:16] [Server thread/INFO]: [REI] Plugins (3):
+[21:20:16] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[21:20:16] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[21:20:16] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[21:20:16] [Server thread/INFO]: [REI] ****************************************
+[21:20:17] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.227 ms, totaling 403.0 ms.
+[21:20:17] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:20:17] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.115.54.55:24454
+[21:21:02] [Server thread/INFO]: Norsx_[/100.84.44.112:51988] logged in with entity id 42 at (-61.69999998807907, 61.0, 18.30000001192093)
+[21:21:02] [Server thread/INFO]: Norsx_ joined the game
+[21:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[21:21:06] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
+[21:21:06] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
+[21:21:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
+[21:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
+[21:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[21:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
