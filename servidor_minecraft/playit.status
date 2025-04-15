@@ -1,85 +1,410 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1742413518871 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(Pa[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel con[2J8[0mGot Error
+MSG: Failed[2J8[0mplayit (v0.15.26): 1744731460770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413522623 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 1[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744731469376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413526319 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731473255 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413529656 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731477019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413533045 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731481697 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413536399 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731485688 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413539888 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731489502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413543262 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731493116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413547100 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731498212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413550432 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731501296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413554005 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731504400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413557663 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731508781 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413561661 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731512090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413565239 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731515201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413568671 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731518572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413572027 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731524294 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1742413575921 tunnel running, 1 tunnels registered
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731527542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-follow-symptoms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731530986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731534134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731537310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731540547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731543865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731547965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731551603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731555373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731559149 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731562117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraf[2J8[0mplayit (v0.15.26): 1744731563206 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731565204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraf[2J8[0mplayit (v0.15.26): 1744731566514 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731568291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraf[2J8[0mplayit (v0.15.26): 1744731570074 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731572169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraf[2J8[0mplayit (v0.15.26): 1744731573314 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731575428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraf[2J8[0mplayit (v0.15.26): 1744731576526 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731578493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraf[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Err[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: Clien[2J8[0mplayit (v0.15.26): 1744731585657 tunnel running, 2 tunnels registered
+
+
+TUNNEL[2J8[0mplayit (v0.15.26): 1744731596733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731601559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731604653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731608352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731611430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731614533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731617918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731621302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731624543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayi[2J8[0mplayit (v0.15.26): 1744731629034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731633550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731637311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731641435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731645189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731649531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731653372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731657078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731660444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731663525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731666604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731670589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731674570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731677994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731681933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731685576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayi[2J8[0mplayit (v0.15.26): 1744731688994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayi[2J8[0mplayit (v0.15.26): 1744731692200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayi[2J8[0mplayit (v0.15.26): 1744731695510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayi[2J8[0mplayit (v0.15.26): 1744731699874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayi[2J8[0mplayit (v0.15.26): 1744731703410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, [2J8[0mplayit (v0.15.26): 1744731708559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731711758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731715832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731719391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731722824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
+port count: 1)
+[2J8[0mplayit (v0.15.26): 1744731724200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+projects-meters.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+march-certified.gl.at.ply.gg:2587 => 127.0.0.1:1389 (proto: Udp, port count: 1)
