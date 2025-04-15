@@ -307,3 +307,11 @@
 [17:02:37] [Server thread/INFO]: Norsx_ left the game
 [17:02:37] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
 [17:03:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:25:41] [Server thread/INFO]: Norsx_[/100.84.44.112:54415] logged in with entity id 11067 at (-51.829777762137795, 67.87282033284686, 11.998945605446615)
+[17:25:41] [Server thread/INFO]: Norsx_ joined the game
+[17:25:41] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
+[17:25:41] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
+[17:25:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
+[17:25:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
+[17:25:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[17:30:21] [Server thread/INFO]: <Norsx_> trtrrrrr
