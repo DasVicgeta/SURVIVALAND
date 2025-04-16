@@ -607,3 +607,7 @@ java.lang.Throwable
 [18:19:36] [Server thread/INFO] [REI] REICommonPlugin finished post-reload for END in 4.370 ms, totaling 283.0 ms.
 [18:19:36] [Server thread/DEBUG] [REI] ========================================
 [18:19:37] [Server thread/DEBUG] [REI] Updating players with new displays version F1238F2800000001 [from F1238F2800000000]
+[18:31:14] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: F1238F2800000001]
+[18:31:14] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: F1238F2800000001], sending reset packet request.
+[18:35:32] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: F1238F2800000001]
+[18:35:32] [Server thread/DEBUG] [REI] Player Norsx_ has outdated displays version 0 [latest version: F1238F2800000001], sending reset packet request.
