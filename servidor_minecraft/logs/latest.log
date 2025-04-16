@@ -234,3 +234,18 @@
 [18:35:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
 [18:35:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
 [18:35:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[18:39:46] [Server thread/INFO]: Villager class_1646['Leatherworker'/821, l='ServerLevel[world]', x=-177.51, y=68.00, z=64.23] died, message: 'Leatherworker was slain by Zombie Villager'
+[18:45:42] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[18:45:42] [Server thread/INFO]: Norsx_ left the game
+[18:45:42] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
+[18:46:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:47:58] [Server thread/INFO]: Norsx_[/100.84.44.112:60449] logged in with entity id 1975 at (-59.24974194991674, 67.0, 22.098959183487317)
+[18:47:58] [Server thread/INFO]: Norsx_ joined the game
+[18:47:59] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
+[18:47:59] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
+[18:48:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
+[18:48:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
+[18:48:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[18:48:23] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[18:48:23] [Server thread/INFO]: Norsx_ left the game
+[18:48:23] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
