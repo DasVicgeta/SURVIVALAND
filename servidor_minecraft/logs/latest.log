@@ -249,3 +249,15 @@
 [18:48:23] [Server thread/INFO]: Norsx_ lost connection: Disconnected
 [18:48:23] [Server thread/INFO]: Norsx_ left the game
 [18:48:23] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
+[18:49:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:50:54] [Server thread/INFO]: Norsx_[/100.84.44.112:55966] logged in with entity id 2315 at (-59.186174392777446, 67.0, 16.6505737974019)
+[18:50:54] [Server thread/INFO]: Norsx_ joined the game
+[18:50:55] [Server thread/INFO]: [voicechat] Received secret request of Norsx_ (18)
+[18:50:55] [Server thread/INFO]: [voicechat] Sent secret to Norsx_
+[18:50:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
+[18:50:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
+[18:50:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[18:51:16] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[18:51:16] [Server thread/INFO]: Norsx_ left the game
+[18:51:16] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
+[18:52:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
