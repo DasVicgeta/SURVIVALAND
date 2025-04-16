@@ -694,7 +694,8 @@
       "minecraft:spider": "2025-04-15 17:56:52 +0000",
       "minecraft:zombie": "2025-04-15 17:57:24 +0000",
       "minecraft:creeper": "2025-04-15 19:19:27 +0000",
-      "minecraft:drowned": "2025-04-15 19:19:35 +0000"
+      "minecraft:drowned": "2025-04-15 19:19:35 +0000",
+      "minecraft:zombie_villager": "2025-04-16 19:30:42 +0000"
     },
     "done": false
   },
@@ -1271,6 +1272,24 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-16 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-16 19:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-16 19:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-16 19:31:47 +0000"
     },
     "done": true
   },
