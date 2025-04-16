@@ -268,3 +268,8 @@
 [19:05:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3b533269-1762-3c78-a36f-8d33a391e17c
 [19:05:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3b533269-1762-3c78-a36f-8d33a391e17c
 [19:05:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Norsx_ (3b533269-1762-3c78-a36f-8d33a391e17c) successfully connected to voice chat
+[19:40:02] [Server thread/INFO]: Norsx_ was slain by Iron Golem
+[19:40:36] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[19:40:36] [Server thread/INFO]: Norsx_ left the game
+[19:40:36] [Server thread/INFO]: [voicechat] Disconnecting client Norsx_
+[19:41:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
