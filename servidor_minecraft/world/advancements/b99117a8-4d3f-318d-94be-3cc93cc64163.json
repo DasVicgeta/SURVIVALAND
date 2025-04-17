@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-04-17 21:40:33 +0000",
+      "minecraft:dripstone_caves": "2025-04-17 22:35:46 +0000",
       "minecraft:plains": "2025-04-17 21:37:47 +0000"
     },
     "done": false
