@@ -186,3 +186,46 @@
 [21:40:51] [Server thread/INFO]: Arnoldjsjsjsj has made the advancement [Acquire Hardware]
 [21:43:43] [Server thread/INFO]: Arnoldjsjsjsj has made the advancement [Stone Age]
 [21:47:13] [Server thread/INFO]: Arnoldjsjsjsj has made the advancement [Sweet Dreams]
+[21:54:21] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:54735] logged in with entity id 6562 at (-3.5, 67.0, 4.5)
+[21:54:21] [Server thread/INFO]: MrGameBlaze joined the game
+[21:54:28] [Server thread/INFO]: Made MrGameBlaze a server operator
+[21:55:13] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Creative Mode]
+[21:55:14] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Survival Mode]
+[21:55:20] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
+[21:55:20] [Server thread/INFO]: MrGameBlaze left the game
+[21:55:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-151, y=66, z=65} class_2338{x=-151, y=66, z=66}
+[21:55:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-153, y=68, z=68} class_2338{x=-153, y=66, z=66}
+[21:58:05] [Server thread/INFO]: Villager class_1646['Nitwit'/865, l='ServerLevel[world]', x=-231.87, y=69.19, z=71.10] died, message: 'Nitwit was slain by Norsx_'
+[21:59:03] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:49581] logged in with entity id 8103 at (38.68557926317658, 72.0, 11.359135468163059)
+[21:59:03] [Server thread/INFO]: MrGameBlaze joined the game
+[22:00:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=3, y=66, z=8}
+[22:00:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=3, y=66, z=8}
+[22:00:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=3, y=66, z=8}
+[22:00:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=3, y=66, z=8}
+[22:00:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=3, y=66, z=8}
+[22:00:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=1, y=66, z=9}
+[22:00:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-5, y=66, z=5}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-7, y=65, z=3}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-8, y=65, z=4}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-8, y=65, z=4}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-8, y=65, z=4}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-8, y=65, z=4}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-8, y=65, z=4}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-8, y=65, z=4}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-11, y=65, z=2}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-11, y=65, z=2}
+[22:00:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-12, y=65, z=1}
+[22:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-12, y=65, z=0}
+[22:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-12, y=65, z=1}
+[22:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-12, y=65, z=1}
+[22:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-12, y=65, z=1}
+[22:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-13, y=65, z=0}
+[22:00:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-59, y=65, z=2} class_2338{x=-12, y=65, z=-1}
+[22:02:25] [Server thread/INFO]: [Arnoldjsjsjsj: Skin changed]
+[22:02:41] [Server thread/INFO]: [Arnoldjsjsjsj: Skin changed]
+[22:02:49] [Server thread/INFO]: [Arnoldjsjsjsj: Skin changed]
+[22:02:55] [Server thread/INFO]: Arnoldjsjsjsj lost connection: Disconnected
+[22:02:55] [Server thread/INFO]: Arnoldjsjsjsj left the game
+[22:03:02] [Server thread/INFO]: Arnoldjsjsjsj[/100.66.124.6:51892] logged in with entity id 9365 at (-212.41346258850018, 69.0, 60.50620764757273)
+[22:03:02] [Server thread/INFO]: Arnoldjsjsjsj joined the game
+[22:03:26] [Server thread/INFO]: [Arnoldjsjsjsj: No skin changes]
