@@ -178,3 +178,16 @@
 [19:45:11] [Server thread/INFO]: Norsx_ joined the game
 [19:45:34] [Server thread/INFO]: Made Norsx_ a server operator
 [19:45:40] [Server thread/INFO]: [Norsx_: Set own game mode to Survival Mode]
+[19:53:03] [Server thread/INFO]: Norsx_ lost connection: You logged in from another location
+[19:53:03] [Server thread/INFO]: Norsx_ left the game
+[19:53:03] [Server thread/WARN]: handleDisconnection() called twice
+[19:53:04] [Server thread/INFO]: Norsx_ (/100.84.44.112:61052) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[19:53:08] [Server thread/INFO]: Norsx_ (/100.84.44.112:61060) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[19:53:25] [Server thread/INFO]: Norsx_[/100.84.44.112:61072] logged in with entity id 1221 at (-294.6160767039464, 64.0, 71.69999998807907)
+[19:53:25] [Server thread/INFO]: Norsx_ joined the game
+[19:53:27] [Server thread/INFO]: Norsx_ (/100.84.44.112:61062) lost connection: Disconnected
+[19:54:30] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[19:54:30] [Server thread/INFO]: Norsx_ left the game
+[19:55:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:56:09] [Server thread/INFO]: Norsx_[/100.84.44.112:61103] logged in with entity id 1559 at (-294.5956230170891, 64.0, 71.30000001192093)
+[19:56:09] [Server thread/INFO]: Norsx_ joined the game
