@@ -194,3 +194,6 @@
 [20:06:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [20:06:29] [Server thread/INFO]: online<--[HERE]
 [20:06:30] [Server thread/INFO]: There are 1 of a max of 20 players online: Norsx_
+[20:25:12] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[20:25:12] [Server thread/INFO]: Norsx_ left the game
+[20:26:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
