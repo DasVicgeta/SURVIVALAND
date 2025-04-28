@@ -704,3 +704,77 @@ java.lang.NullPointerException: null
 [22:03:57] [Server thread/INFO]: <Norsx_> victor me lo pidio
 [22:04:09] [Server thread/INFO]: <Norsx_> sorry
 [22:04:21] [Server thread/INFO]: <Sr_PatitoUwU15> ala
+[22:05:14] [Server thread/INFO]: <GHOST2026YT> y listo maxeados
+[22:05:47] [Server thread/INFO]: <GHOST2026YT> norsx estas en el nether?
+[22:06:01] [Server thread/INFO]: <Norsx_> sip
+[22:06:04] [Server thread/INFO]: <Sr_PatitoUwU15> cual me da pico diamond?
+[22:06:10] [Server thread/INFO]: <GHOST2026YT> el de bata
+[22:06:17] [Server thread/INFO]: <GHOST2026YT> este
+[22:06:22] [Server thread/INFO]: <GHOST2026YT> no ese
+[22:06:41] [Server thread/INFO]: <GHOST2026YT> te tradeastes uno de diamante no?
+[22:06:48] [Server thread/INFO]: <Sr_PatitoUwU15> voy ala mina
+[22:07:05] [Server thread/INFO]: <GHOST2026YT> aunque trae unos encantamientos todos pedoros pero bueno
+[22:07:14] [Server thread/INFO]: <Sr_PatitoUwU15> si xd
+[22:07:17] [Server thread/INFO]: <Sr_PatitoUwU15> voy ala mina
+[22:07:24] [Server thread/INFO]: <GHOST2026YT> literal esta mejor el hierro
+[22:07:40] [Server thread/INFO]: Norsx_ was slain by Iron Golem
+[22:07:48] [Server thread/INFO]: <GHOST2026YT> xdd
+[22:08:15] [Server thread/INFO]: <Sr_PatitoUwU15> llevo hierro para un yunke?
+[22:08:18] [Server thread/INFO]: <GHOST2026YT> jhonny trae obsidiana
+[22:08:21] [Server thread/INFO]: <GHOST2026YT> si
+[22:08:32] [Server thread/INFO]: <GHOST2026YT> porque voy a ponerme a buscar los encantamientos
+[22:08:33] [Server thread/INFO]: <Norsx_> puto golem ojala su cuca se le parta en 70 millones de pedazos
+[22:08:51] [Server thread/INFO]: <GHOST2026YT> XD pa tanto
+[22:08:55] [Server thread/INFO]: <GHOST2026YT> xdd
+[22:09:04] [Server thread/INFO]: <Norsx_> perdi 60 niveles
+[22:09:06] [Server thread/INFO]: <Norsx_> xd
+[22:09:08] [Server thread/INFO]: <GHOST2026YT> bueno toca el infierno
+[22:09:16] [Server thread/INFO]: <GHOST2026YT> mano yo tenia 45 y no porque tengo 22
+[22:09:34] [Server thread/INFO]: <Sr_PatitoUwU15> 22 que?
+[22:09:41] [Server thread/INFO]: <GHOST2026YT> niveles de xp
+[22:10:16] [Server thread/INFO]: <Sr_PatitoUwU15> obsidiana tambien?
+[22:10:19] [Server thread/INFO]: <GHOST2026YT> si
+[22:10:31] [Server thread/INFO]: <GHOST2026YT> pa ponerme a farmear pa ponerme full netherite
+[22:10:46] [Server thread/INFO]: <GHOST2026YT> te veo el gamertag jhonny
+[22:11:13] [Server thread/INFO]: <Sr_PatitoUwU15> dame ,adera
+[22:11:17] [Server thread/INFO]: <Sr_PatitoUwU15> madera
+[22:11:32] [Server thread/INFO]: <Sr_PatitoUwU15> xd
+[22:11:37] [Server thread/INFO]: <GHOST2026YT> mano pa que haces otra mesa?
+[22:11:43] [Server thread/INFO]: <GHOST2026YT> eres marico?
+[22:11:52] [Server thread/ERROR]: Failed to save chunk -91,20
+net.minecraft.class_148: Writing into PalettedContainer from multiple threads
+	at net.minecraft.class_2841.method_12334(class_2841.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2841.method_12330(class_2841.java:205) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_12410(class_2852.java:261) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17228(class_3898.java:716) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18843(class_3898.java:443) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.class_3898.method_20605(class_3898.java:424) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17233(class_3898.java:401) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12127(class_3215.java:339) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:312) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:811) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:670) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.IllegalStateException
+	at net.minecraft.class_2841.method_12334(class_2841.java:45) ~[server-intermediary.jar:?]
+	... 16 more
+[22:12:00] [Server thread/INFO]: <GHOST2026YT> ala
+[22:13:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/91990, l='ServerLevel[world]', x=1133.46, y=66.88, z=-248.45]
+[22:13:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/91990, l='ServerLevel[world]', x=1133.46, y=66.88, z=-248.45]
+[22:13:53] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:42347] logged in with entity id 92155 at (-11564.987783935889, 64.0, 2192.732700573028)
+[22:13:53] [Server thread/INFO]: MrGameBlaze joined the game
+[22:14:01] [Server thread/INFO]: Sr_PatitoUwU15 has made the advancement [Diamonds!]
+[22:14:07] [Server thread/INFO]: [MrGameBlaze: Made Norsx_ a server operator]
+[22:14:11] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
+[22:14:11] [Server thread/INFO]: MrGameBlaze left the game
+[22:14:12] [Server thread/INFO]: <Sr_PatitoUwU15> diamantitoooowooo
+[22:14:24] [Server thread/INFO]: <GHOST2026YT> jhonny tenemos proteccion 3 nos lo quedamos o busco proteccion 4
+[22:14:26] [Server thread/INFO]: <GHOST2026YT> ?
+[22:14:42] [Server thread/INFO]: <Sr_PatitoUwU15> conseguimos 4 con el yunke
+[22:14:50] [Server thread/INFO]: <GHOST2026YT> pues se queda entonces
+[22:15:00] [Server thread/INFO]: <GHOST2026YT> entonces ahora busco reparacion
