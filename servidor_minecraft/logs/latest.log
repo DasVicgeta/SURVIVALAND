@@ -163,3 +163,7 @@ java.lang.NullPointerException: null
 [19:25:24] [Server thread/INFO]: Norsx_ left the game
 [19:26:51] [Server thread/INFO]: Norsx_[/127.102.42.146:58433] logged in with entity id 1869 at (-4.51274940555043, 63.0, 6.486961623840938)
 [19:26:51] [Server thread/INFO]: Norsx_ joined the game
+[19:31:09] [Server thread/INFO]: eduardopache was slain by Norsx_
+[19:32:11] [Server thread/INFO]: eduardopache lost connection: Disconnected
+[19:32:11] [Server thread/INFO]: eduardopache left the game
+[19:32:15] [Server thread/INFO]: Norsx_ was killed by Witch using magic
