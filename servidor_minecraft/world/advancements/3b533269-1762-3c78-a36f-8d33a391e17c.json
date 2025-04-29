@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2025-04-29 20:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-28 23:04:21 +0000"
@@ -536,9 +542,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-29 20:24:22 +0000",
+      "minecraft:skeleton": "2025-04-29 20:46:06 +0000",
       "minecraft:elder_guardian": "2025-04-29 18:41:53 +0000",
       "minecraft:guardian": "2025-04-29 19:00:00 +0000",
       "minecraft:vindicator": "2025-04-29 20:29:03 +0000",
+      "minecraft:spider": "2025-04-29 20:41:28 +0000",
+      "minecraft:creeper": "2025-04-29 20:45:39 +0000",
       "minecraft:witch": "2025-04-29 19:11:28 +0000",
       "minecraft:husk": "2025-04-29 20:22:55 +0000",
       "minecraft:stray": "2025-04-28 23:32:56 +0000",
@@ -638,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 20:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-29 18:39:25 +0000"
@@ -647,6 +662,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-28 23:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-29 20:44:12 +0000"
     },
     "done": true
   },
@@ -665,6 +686,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-28 23:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 20:43:10 +0000"
     },
     "done": true
   },
@@ -1100,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 20:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-28 23:03:47 +0000"
@@ -1223,6 +1256,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-29 20:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 20:43:10 +0000"
     },
     "done": true
   },
@@ -1587,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-04-29 20:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-28 22:48:57 +0000"
@@ -1803,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-29 20:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 19:34:02 +0000"
@@ -1836,6 +1887,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-28 23:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-29 20:44:12 +0000"
     },
     "done": true
   },
@@ -2253,6 +2310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-29 20:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-29 20:18:43 +0000"
@@ -2346,6 +2409,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-04-28 23:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-29 20:40:03 +0000"
     },
     "done": true
   },
