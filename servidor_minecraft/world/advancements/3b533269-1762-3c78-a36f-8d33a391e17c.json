@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-29 21:21:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-28 22:49:13 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-29 21:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-28 23:03:47 +0000"
@@ -629,13 +641,16 @@
       "minecraft:pillager": "2025-04-29 20:24:22 +0000",
       "minecraft:skeleton": "2025-04-29 20:46:06 +0000",
       "minecraft:elder_guardian": "2025-04-29 18:41:53 +0000",
+      "minecraft:ghast": "2025-04-29 21:21:20 +0000",
       "minecraft:hoglin": "2025-04-29 21:15:45 +0000",
       "minecraft:guardian": "2025-04-29 19:00:00 +0000",
       "minecraft:vindicator": "2025-04-29 20:29:03 +0000",
       "minecraft:magma_cube": "2025-04-29 21:14:26 +0000",
       "minecraft:spider": "2025-04-29 20:41:28 +0000",
       "minecraft:creeper": "2025-04-29 20:45:39 +0000",
+      "minecraft:zombified_piglin": "2025-04-29 21:26:11 +0000",
       "minecraft:witch": "2025-04-29 19:11:28 +0000",
+      "minecraft:wither_skeleton": "2025-04-29 21:20:44 +0000",
       "minecraft:husk": "2025-04-29 20:22:55 +0000",
       "minecraft:piglin": "2025-04-29 21:11:07 +0000",
       "minecraft:stray": "2025-04-28 23:32:56 +0000",
@@ -1741,6 +1756,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-29 21:11:23 +0000",
       "porkchop": "2025-04-29 20:53:38 +0000",
+      "salmon": "2025-04-29 21:18:59 +0000",
       "melon_slice": "2025-04-28 23:45:11 +0000",
       "mushroom_stew": "2025-04-28 23:21:43 +0000"
     },
@@ -1923,6 +1939,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-28 23:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 21:21:23 +0000"
     },
     "done": true
   },
@@ -2241,6 +2263,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2025-04-29 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-04-29 21:21:20 +0000"
     },
     "done": true
   },
