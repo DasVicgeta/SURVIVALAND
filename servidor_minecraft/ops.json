@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "05c6c3dd-90ee-3130-9153-059a26c6f6aa",
+    "name": "GHOST2026YT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "5c281a75-0961-38af-947a-e8220a273a73",
     "name": "MrGameBlaze",
     "level": 4,
@@ -8,6 +14,12 @@
   {
     "uuid": "3b533269-1762-3c78-a36f-8d33a391e17c",
     "name": "Norsx_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0fa0379f-133b-3de1-baea-b9c739ae48b7",
+    "name": "eduardopache",
     "level": 4,
     "bypassesPlayerLimit": false
   }
