@@ -209,3 +209,38 @@ java.lang.NullPointerException: null
 [20:53:50] [Server thread/INFO]: MrGameBlaze left the game
 [20:57:05] [Server thread/INFO]: Norsx_ was slain by Vindicator
 [20:57:21] [Server thread/INFO]: Norsx_ was slain by Vindicator
+[20:59:17] [Server thread/INFO]: Norsx_ was slain by Zombie
+[21:05:11] [Server thread/INFO]: Norsx_ was slain by Husk
+[21:05:49] [Server thread/INFO]: Norsx_ fell out of the world
+[21:05:50] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:05:54] [Server thread/INFO]: eduardopache[/127.30.173.8:39063] logged in with entity id 4257 at (0.30000001192092873, 60.0, 2.6999999880790693)
+[21:05:54] [Server thread/INFO]: eduardopache joined the game
+[21:05:56] [Server thread/INFO]: eduardopache lost connection: You logged in from another location
+[21:05:56] [Server thread/INFO]: eduardopache left the game
+[21:05:56] [Server thread/INFO]: eduardopache[/127.30.173.8:47275] logged in with entity id 4258 at (0.30000001192092873, 60.0, 2.6999999880790693)
+[21:05:56] [Server thread/INFO]: eduardopache joined the game
+[21:06:58] [Server thread/INFO]: eduardopache lost connection: Disconnected
+[21:06:58] [Server thread/INFO]: eduardopache left the game
+[21:07:05] [Server thread/INFO]: eduardopache[/127.30.173.8:58095] logged in with entity id 4286 at (0.30000001192092873, 60.0, 2.6999999880790693)
+[21:07:05] [Server thread/INFO]: eduardopache joined the game

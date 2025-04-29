@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-29 21:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-28 23:03:47 +0000"
@@ -41,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-28 23:04:21 +0000"
@@ -56,6 +68,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-28 23:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
     },
     "done": true
   },
@@ -122,6 +140,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-29 19:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
     },
     "done": true
   },
@@ -617,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-29 21:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-29 18:36:51 +0000"
@@ -965,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-29 20:18:35 +0000"
@@ -1298,6 +1334,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-29 19:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-29 21:04:47 +0000"
     },
     "done": true
   },
@@ -1867,6 +1909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-29 18:37:05 +0000"
@@ -1936,6 +1984,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-29 20:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
     },
     "done": true
   },
@@ -2032,6 +2086,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-28 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-29 21:06:09 +0000"
     },
     "done": true
   },
@@ -2182,6 +2242,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-04-29 18:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
     },
     "done": true
   },
@@ -2512,6 +2578,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-04-29 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-29 21:06:09 +0000"
     },
     "done": true
   },
