@@ -131,3 +131,35 @@
 [19:16:59] [Server thread/INFO]: eduardopache has made the advancement [Best Friends Forever]
 [19:17:05] [Server thread/INFO]: <Norsx_> listo
 [19:17:33] [Server thread/INFO]: <Norsx_> falta una montura para que lo puedas mover
+[19:17:49] [Server thread/INFO]: <eduardopache> ok
+[19:18:35] [Server thread/INFO]: eduardopache was slain by Monster Guard
+[19:18:46] [Server thread/INFO]: eduardopache was slain by Monster Guard
+[19:18:57] [Server thread/INFO]: eduardopache was slain by Monster Guard
+[19:19:21] [Server thread/INFO]: eduardopache was slain by Norsx_
+[19:19:47] [Server thread/INFO]: Norsx_ fell out of the world
+[19:19:48] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:25:24] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[19:25:24] [Server thread/INFO]: Norsx_ left the game
+[19:26:51] [Server thread/INFO]: Norsx_[/127.102.42.146:58433] logged in with entity id 1869 at (-4.51274940555043, 63.0, 6.486961623840938)
+[19:26:51] [Server thread/INFO]: Norsx_ joined the game
