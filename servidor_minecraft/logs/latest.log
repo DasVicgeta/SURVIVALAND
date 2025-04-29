@@ -335,3 +335,36 @@ java.lang.NullPointerException: null
 [21:47:46] [Server thread/INFO]: <Norsx_> te lo mejoro
 [21:47:52] [Server thread/INFO]: <eduardopache> no tengo
 [21:47:58] [Server thread/INFO]: <Norsx_> dame ese de madera
+[21:48:09] [Server thread/INFO]: <Norsx_> ven
+[21:48:25] [Server thread/INFO]: eduardopache fell out of the world
+[21:48:26] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:48:35] [Server thread/INFO]: <Norsx_> ven
+[21:48:52] [Server thread/INFO]: eduardopache was blown up by Norsx_
+[21:49:01] [Server thread/INFO]: <eduardopache> si eres rata
+[21:49:05] [Server thread/INFO]: <Norsx_> xd
+[21:50:32] [Server thread/INFO]: <eduardopache> Lisandro se va conectar vamos a matarlo
+[21:50:37] [Server thread/INFO]: <Norsx_> si va
+[21:52:06] [Server thread/INFO]: <eduardopache> ya vengo
+[21:52:16] [Server thread/INFO]: eduardopache lost connection: Disconnected
+[21:52:16] [Server thread/INFO]: eduardopache left the game
