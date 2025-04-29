@@ -1,5 +1,5 @@
-[17:54:43] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[17:54:44] [main/INFO]: Loading 48 mods:
+[18:27:32] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[18:27:33] [main/INFO]: Loading 48 mods:
 	- alternate-current 1.9.0
 	- collective-fabric 5.50
 	   \-- fiber 0.23.0-2
@@ -59,71 +59,51 @@
 	- memoryleakfix 1.1.5
 	- minecraft 1.16.5
 	- modernfix 5.18.0+mc1.16.5
-[17:54:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:54:46] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:54:46] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:54:46] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
-[17:54:47] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
-[17:54:47] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
-[17:54:47] [main/INFO]: I used the json to destroy the json
-[17:54:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:54:50] [main/INFO]: Using Java 9+ class definer
-[17:54:54] [main/INFO]: Vanilla bootstrap took 5641 milliseconds
-[17:54:54] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
-[17:54:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:54:56] [main/INFO]: Bypassed Mojang DFU
-[17:54:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:54:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:54:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:54:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:54:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:54:57] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
-[17:54:57] [main/INFO]: ARRP register - before vanilla
-[17:54:57] [main/INFO]: ARRP register - after vanilla
-[17:54:57] [main/INFO]: Invalidating pack caches
-[17:54:59] [Worker-Main-1/INFO]: Loaded 7 recipes
-[17:54:59] [Worker-Main-1/INFO]: Loaded 927 advancements
-[17:54:59] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 7.273 ms
-[17:54:59] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:54:59] [Server thread/INFO]: Loading properties
-[17:54:59] [Server thread/INFO]: Default game type: SURVIVAL
-[17:54:59] [Server thread/INFO]: Generating keypair
-[17:55:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:00] [Server thread/INFO]: Using epoll channel type
-[17:55:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:55:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:55:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:55:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:55:00] [Server thread/INFO]: Preparing level "world"
-[17:55:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:55:03] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:03] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:03] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:03] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:03] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:03] [Server thread/INFO]: Preparing spawn area: 59%
-[17:55:03] [Server thread/INFO]: Time elapsed: 2760 ms
-[17:55:03] [Server thread/INFO]: Done (3.032s)! For help, type "help"
-[17:55:03] [Server thread/WARN]: Dedicated server took 26.342 seconds to load
-[18:00:43] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:52199] logged in with entity id 16 at (9.283687738265778, 61.0, 8.762499988079071)
-[18:00:43] [Server thread/INFO]: MrGameBlaze joined the game
-[18:00:46] [Server thread/INFO]: MrGameBlaze lost connection: You logged in from another location
-[18:00:46] [Server thread/INFO]: MrGameBlaze left the game
-[18:00:46] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:41319] logged in with entity id 17 at (9.283687738265778, 61.0, 8.762499988079071)
-[18:00:46] [Server thread/INFO]: MrGameBlaze joined the game
-[18:01:04] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[18:01:04] [Server thread/INFO]: MrGameBlaze left the game
-[18:01:09] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:54025] logged in with entity id 18 at (9.283687738265778, 61.0, 8.762499988079071)
-[18:01:09] [Server thread/INFO]: MrGameBlaze joined the game
-[18:01:17] [Server thread/INFO]: eduardopache[/127.232.89.107:35951] logged in with entity id 20 at (-2.5, 61.0, 3.5)
-[18:01:17] [Server thread/INFO]: eduardopache joined the game
-[18:02:03] [Server thread/INFO]: <MrGameBlaze> te dejo estaré haciendo. osas
-[18:02:39] [Server thread/INFO]: eduardopache has made the advancement [Isn't It Iron Pick]
-[18:02:57] [Server thread/INFO]: <MrGameBlaze> usa un hacha maldiro
-[18:03:22] [Server thread/INFO]: <MrGameBlaze> usa las herramientas correspondientes para cada cosa
-[18:03:43] [Server thread/INFO]: eduardopache has made the advancement [Getting an Upgrade]
-[18:04:02] [Server thread/INFO]: <MrGameBlaze> tendejo estaré vigilandote
-[18:04:07] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[18:04:07] [Server thread/INFO]: MrGameBlaze left the game
-[18:09:54] [Server thread/INFO]: eduardopache has made the advancement [Diamonds!]
-[18:13:04] [Server thread/INFO]: eduardopache has made the advancement [Acquire Hardware]
+[18:27:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:27:33] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:27:33] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:27:34] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
+[18:27:34] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[18:27:34] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[18:27:35] [main/INFO]: I used the json to destroy the json
+[18:27:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:27:38] [main/INFO]: Using Java 9+ class definer
+[18:27:41] [main/INFO]: Vanilla bootstrap took 5084 milliseconds
+[18:27:41] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
+[18:27:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:27:44] [main/INFO]: Bypassed Mojang DFU
+[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:27:45] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
+[18:27:45] [main/INFO]: ARRP register - before vanilla
+[18:27:45] [main/INFO]: ARRP register - after vanilla
+[18:27:45] [main/INFO]: Invalidating pack caches
+[18:27:47] [Worker-Main-1/INFO]: Loaded 7 recipes
+[18:27:47] [Worker-Main-1/INFO]: Loaded 927 advancements
+[18:27:47] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 3.512 ms
+[18:27:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:27:47] [Server thread/INFO]: Loading properties
+[18:27:47] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:47] [Server thread/INFO]: Generating keypair
+[18:27:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:27:48] [Server thread/INFO]: Using epoll channel type
+[18:27:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:27:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:27:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:27:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:27:48] [Server thread/INFO]: Preparing level "world"
+[18:27:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Time elapsed: 2172 ms
+[18:27:50] [Server thread/INFO]: Done (2.530s)! For help, type "help"
+[18:27:50] [Server thread/WARN]: Dedicated server took 24.71 seconds to load
+[18:28:31] [Server thread/INFO]: Norsx_[/127.102.42.146:38463] logged in with entity id 17 at (0.7925127376921811, 61.0, 2.764429683901883)
+[18:28:31] [Server thread/INFO]: Norsx_ joined the game
+[18:30:08] [Server thread/INFO]: Norsx_ has made the advancement [Tactical Fishing]
+[18:37:05] [Server thread/INFO]: Norsx_ has made the advancement [Diamonds!]
