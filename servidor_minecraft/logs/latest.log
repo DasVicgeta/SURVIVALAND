@@ -1,5 +1,4 @@
-[18:27:32] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[18:27:33] [main/INFO]: Loading 48 mods:
+[20:04:00] [main/INFO]: Loading 48 mods:
 	- alternate-current 1.9.0
 	- collective-fabric 5.50
 	   \-- fiber 0.23.0-2
@@ -59,312 +58,52 @@
 	- memoryleakfix 1.1.5
 	- minecraft 1.16.5
 	- modernfix 5.18.0+mc1.16.5
-[18:27:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:27:33] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:27:33] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:27:34] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
-[18:27:34] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
-[18:27:34] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
-[18:27:35] [main/INFO]: I used the json to destroy the json
-[18:27:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:27:38] [main/INFO]: Using Java 9+ class definer
-[18:27:41] [main/INFO]: Vanilla bootstrap took 5084 milliseconds
-[18:27:41] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
-[18:27:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:27:44] [main/INFO]: Bypassed Mojang DFU
-[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:45] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
-[18:27:45] [main/INFO]: ARRP register - before vanilla
-[18:27:45] [main/INFO]: ARRP register - after vanilla
-[18:27:45] [main/INFO]: Invalidating pack caches
-[18:27:47] [Worker-Main-1/INFO]: Loaded 7 recipes
-[18:27:47] [Worker-Main-1/INFO]: Loaded 927 advancements
-[18:27:47] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 3.512 ms
-[18:27:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[18:27:47] [Server thread/INFO]: Loading properties
-[18:27:47] [Server thread/INFO]: Default game type: SURVIVAL
-[18:27:47] [Server thread/INFO]: Generating keypair
-[18:27:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:27:48] [Server thread/INFO]: Using epoll channel type
-[18:27:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:27:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:27:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:27:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:27:48] [Server thread/INFO]: Preparing level "world"
-[18:27:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:50] [Server thread/INFO]: Time elapsed: 2172 ms
-[18:27:50] [Server thread/INFO]: Done (2.530s)! For help, type "help"
-[18:27:50] [Server thread/WARN]: Dedicated server took 24.71 seconds to load
-[18:28:31] [Server thread/INFO]: Norsx_[/127.102.42.146:38463] logged in with entity id 17 at (0.7925127376921811, 61.0, 2.764429683901883)
-[18:28:31] [Server thread/INFO]: Norsx_ joined the game
-[18:30:08] [Server thread/INFO]: Norsx_ has made the advancement [Tactical Fishing]
-[18:37:05] [Server thread/INFO]: Norsx_ has made the advancement [Diamonds!]
-[18:41:44] [Server thread/INFO]: Norsx_ was killed trying to hurt Elder Guardian
-[18:51:17] [Server thread/INFO]: Norsx_ has made the advancement [Suit Up]
-[18:52:25] [Server thread/INFO]: Norsx_ was killed trying to hurt Monster Guard
-[18:53:46] [Server thread/INFO]: Norsx_ was impaled by Drowned
-[18:54:06] [Server thread/INFO]: Norsx_ was impaled by Drowned
-[18:55:44] [Server thread/INFO]: Norsx_ was impaled by Drowned
-[18:57:40] [Server thread/INFO]: eduardopache[/127.200.140.36:60403] logged in with entity id 842 at (10.456473499536745, 61.0, 5.086742941845969)
-[18:57:40] [Server thread/INFO]: eduardopache joined the game
-[18:58:09] [Server thread/INFO]: Norsx_ was slain by Guardian
-[18:58:41] [Server thread/INFO]: <Norsx_> tienes mi escudo de casualidad?
-[18:58:51] [Server thread/INFO]: <eduardopache> no
-[18:58:53] [Server thread/INFO]: <Norsx_> ok
-[19:05:25] [Server thread/WARN]: Norsx_ moved wrongly!
-[19:07:08] [Server thread/INFO]: eduardopache fell out of the world
-[19:15:24] [Server thread/INFO]: <Norsx_> montate
-[19:15:28] [Server thread/INFO]: <Norsx_> domesticalo
-[19:15:42] [Server thread/INFO]: <Norsx_> quitate la sopa de la mano
-[19:15:54] [Server thread/INFO]: <Norsx_> ahora subete
-[19:16:05] [Server thread/INFO]: <Norsx_> y asi hasta que salgan corazones
-[19:16:22] [Server thread/INFO]: <Norsx_> no ese es el mio
-[19:16:39] [Server thread/INFO]: <Norsx_> dale varias veces
-[19:16:59] [Server thread/INFO]: eduardopache has made the advancement [Best Friends Forever]
-[19:17:05] [Server thread/INFO]: <Norsx_> listo
-[19:17:33] [Server thread/INFO]: <Norsx_> falta una montura para que lo puedas mover
-[19:17:49] [Server thread/INFO]: <eduardopache> ok
-[19:18:35] [Server thread/INFO]: eduardopache was slain by Monster Guard
-[19:18:46] [Server thread/INFO]: eduardopache was slain by Monster Guard
-[19:18:57] [Server thread/INFO]: eduardopache was slain by Monster Guard
-[19:19:21] [Server thread/INFO]: eduardopache was slain by Norsx_
-[19:19:47] [Server thread/INFO]: Norsx_ fell out of the world
-[19:19:48] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[19:25:24] [Server thread/INFO]: Norsx_ lost connection: Disconnected
-[19:25:24] [Server thread/INFO]: Norsx_ left the game
-[19:26:51] [Server thread/INFO]: Norsx_[/127.102.42.146:58433] logged in with entity id 1869 at (-4.51274940555043, 63.0, 6.486961623840938)
-[19:26:51] [Server thread/INFO]: Norsx_ joined the game
-[19:31:09] [Server thread/INFO]: eduardopache was slain by Norsx_
-[19:32:11] [Server thread/INFO]: eduardopache lost connection: Disconnected
-[19:32:11] [Server thread/INFO]: eduardopache left the game
-[19:32:15] [Server thread/INFO]: Norsx_ was killed by Witch using magic
-[19:38:12] [Server thread/INFO]: Norsx_ was slain by Vex
-[20:12:40] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:48033] logged in with entity id 2368 at (1.1393511293314598, 61.0, 6.291714433266858)
-[20:12:40] [Server thread/INFO]: MrGameBlaze joined the game
-[20:13:12] [Server thread/INFO]: <MrGameBlaze> quepa
-[20:13:32] [Server thread/INFO]: <Norsx_> hola
-[20:13:41] [Server thread/INFO]: <MrGameBlaze> jugare pero con mucho lag
-[20:13:46] [Server thread/INFO]: <Norsx_> porq
-[20:13:52] [Server thread/INFO]: <MrGameBlaze> tengo los axies de fondo
-[20:14:26] [Server thread/INFO]: <MrGameBlaze> que paso con eduardo
-[20:14:30] [Server thread/INFO]: <Norsx_> ni idea
-[20:14:36] [Server thread/INFO]: <Norsx_> entro un rato y se quedo afk
-[20:14:37] [Server thread/INFO]: <MrGameBlaze> seguro se le fue la luz
-[20:14:41] [Server thread/INFO]: <Norsx_> y se salio
-[20:14:47] [Server thread/INFO]: <Norsx_> de seguro
-[20:14:53] [Server thread/INFO]: <MrGameBlaze> ya tu papa consigio el adaptador?
-[20:14:57] [Server thread/INFO]: <Norsx_> nop
-[20:15:01] [Server thread/INFO]: <MrGameBlaze> puta
-[20:15:11] [Server thread/INFO]: <Norsx_> toma
-[20:15:15] [Server thread/INFO]: <Norsx_> domestica un loro
-[20:15:23] [Server thread/INFO]: <Norsx_> sera que te alcanza?
-[20:15:35] [Server thread/INFO]: <Norsx_> aqui
-[20:16:27] [Server thread/INFO]: <MrGameBlaze> llamad
-[20:16:31] [Server thread/INFO]: <Norsx_> dale
-[20:16:34] [Server thread/INFO]: <MrGameBlaze> quye dice
-[20:16:44] [Server thread/INFO]: <Norsx_> dejame abro discord
-[20:17:07] [Server thread/INFO]: <MrGameBlaze> yupi
-[20:17:09] [Server thread/INFO]: <MrGameBlaze> nivel 6
-[20:17:18] [Server thread/INFO]: <Norsx_> sip
-[20:25:11] [Server thread/INFO]: Norsx_ has made the advancement [What a Deal!]
-[20:27:31] [Server thread/INFO]: Norsx_ was slain by Husk
-[20:28:44] [Server thread/INFO]: Norsx_ was slain by Vindicator
-[20:39:12] [Server thread/INFO]: Norsx_ was slain by Monster Guard
-[20:39:35] [Server thread/INFO]: Norsx_ was slain by Monster Guard
-[20:42:41] [Server thread/INFO]: Norsx_ was slain by Spider
-[20:46:00] [Server thread/INFO]: MrGameBlaze has made the advancement [Not Today, Thank You]
-[20:46:04] [Server thread/INFO]: Norsx_ was shot by Skeleton
-[20:46:06] [Server thread/INFO]: MrGameBlaze was shot by Skeleton
-[20:49:20] [Server thread/INFO]: MrGameBlaze has made the advancement [Diamonds!]
-[20:53:50] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[20:53:50] [Server thread/INFO]: MrGameBlaze left the game
-[20:57:05] [Server thread/INFO]: Norsx_ was slain by Vindicator
-[20:57:21] [Server thread/INFO]: Norsx_ was slain by Vindicator
-[20:59:17] [Server thread/INFO]: Norsx_ was slain by Zombie
-[21:05:11] [Server thread/INFO]: Norsx_ was slain by Husk
-[21:05:49] [Server thread/INFO]: Norsx_ fell out of the world
-[21:05:50] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[21:05:54] [Server thread/INFO]: eduardopache[/127.30.173.8:39063] logged in with entity id 4257 at (0.30000001192092873, 60.0, 2.6999999880790693)
-[21:05:54] [Server thread/INFO]: eduardopache joined the game
-[21:05:56] [Server thread/INFO]: eduardopache lost connection: You logged in from another location
-[21:05:56] [Server thread/INFO]: eduardopache left the game
-[21:05:56] [Server thread/INFO]: eduardopache[/127.30.173.8:47275] logged in with entity id 4258 at (0.30000001192092873, 60.0, 2.6999999880790693)
-[21:05:56] [Server thread/INFO]: eduardopache joined the game
-[21:06:58] [Server thread/INFO]: eduardopache lost connection: Disconnected
-[21:06:58] [Server thread/INFO]: eduardopache left the game
-[21:07:05] [Server thread/INFO]: eduardopache[/127.30.173.8:58095] logged in with entity id 4286 at (0.30000001192092873, 60.0, 2.6999999880790693)
-[21:07:05] [Server thread/INFO]: eduardopache joined the game
-[21:11:40] [Server thread/INFO]: eduardopache lost connection: Disconnected
-[21:11:40] [Server thread/INFO]: eduardopache left the game
-[21:13:33] [Server thread/INFO]: Norsx_ has made the advancement [Hidden in the Depths]
-[21:13:44] [Server thread/INFO]: Norsx_ has made the advancement [Ice Bucket Challenge]
-[21:15:26] [Server thread/INFO]: Norsx_ has made the advancement [Who is Cutting Onions?]
-[21:17:24] [Server thread/INFO]: Norsx_ has made the advancement [Not Today, Thank You]
-[21:17:27] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:53607] logged in with entity id 4576 at (6.286110076964777, 61.0, 6.9869347385394995)
-[21:17:27] [Server thread/INFO]: MrGameBlaze joined the game
-[21:17:29] [Server thread/INFO]: Norsx_ has made the advancement [Into Fire]
-[21:19:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@53391379[id=<null>,name=eduardopache,properties={},legacy=false] (/127.164.32.29:38813) lost connection: Disconnected
-[21:19:48] [Server thread/INFO]: eduardopache[/127.164.32.29:53929] logged in with entity id 4664 at (11.670904948253243, 61.0, 8.16691489573124)
-[21:19:48] [Server thread/INFO]: eduardopache joined the game
-[21:20:02] [Server thread/INFO]: eduardopache was slain by Norsx_
-[21:20:45] [Server thread/INFO]: MrGameBlaze withered away whilst fighting Wither Skeleton
-[21:21:20] [Server thread/INFO]: Norsx_ has completed the challenge [Uneasy Alliance]
-[21:21:22] [Server thread/INFO]: MrGameBlaze has completed the challenge [Uneasy Alliance]
-[21:22:01] [Server thread/INFO]: <eduardopache> victor
-[21:22:08] [Server thread/INFO]: <MrGameBlaze> que]
-[21:22:18] [Server thread/INFO]: <eduardopache> Jhonny no va jugar
-[21:22:23] [Server thread/INFO]: <MrGameBlaze> dijo que si
-[21:22:33] [Server thread/INFO]: <eduardopache> a mediano qno
-[21:24:22] [Server thread/INFO]: eduardopache was slain by Piglin
-[21:24:27] [Server thread/INFO]: eduardopache was slain by Piglin
-[21:25:04] [Server thread/INFO]: eduardopache was slain by Zombified Piglin
-[21:25:26] [Server thread/INFO]: eduardopache was slain by Zombified Piglin
-[21:26:09] [Server thread/INFO]: eduardopache was slain by Zombified Piglin
-[21:26:48] [Server thread/INFO]: eduardopache has made the advancement [Into Fire]
-[21:26:48] [Server thread/INFO]: eduardopache has made the advancement [Hot Stuff]
-[21:27:03] [Server thread/INFO]: <MrGameBlaze> mira dame el cubo de lava
-[21:27:13] [Server thread/INFO]: Norsx_ has made the advancement [Hot Stuff]
-[21:28:11] [Server thread/INFO]: <MrGameBlaze> mira eduardo
-[21:28:16] [Server thread/INFO]: <MrGameBlaze> haras lo siguiente
-[21:28:16] [Server thread/INFO]: <eduardopache> q
-[21:28:23] [Server thread/INFO]: <eduardopache> dime
-[21:28:25] [Server thread/INFO]: <MrGameBlaze> picaras la piedar de nuestro generador de piedra
-[21:28:37] [Server thread/INFO]: <eduardopache> ok
-[21:30:09] [Server thread/INFO]: <MrGameBlaze> mira sigue picando el bloque
-[21:30:40] [Server thread/INFO]: <MrGameBlaze> pica nada mas
-[21:30:44] [Server thread/INFO]: <MrGameBlaze> no le pegues
-[21:30:50] [Server thread/INFO]: <Norsx_> ven bro
-[21:30:59] [Server thread/INFO]: <eduardopache> disculpa es q estaba picando
-[21:31:08] [Server thread/INFO]: <Norsx_> ven
-[21:31:15] [Server thread/INFO]: <Norsx_> ven
-[21:31:24] [Server thread/INFO]: <Norsx_> eduardo
-[21:31:26] [Server thread/INFO]: MrGameBlaze has made the advancement [Ice Bucket Challenge]
-[21:31:31] [Server thread/INFO]: <Norsx_> ponte ahi
-[21:31:40] [Server thread/INFO]: <Norsx_> aqui
-[21:32:03] [Server thread/INFO]: eduardopache fell out of the world
-[21:32:20] [Server thread/INFO]: eduardopache was slain by Norsx_
-[21:32:23] [Server thread/INFO]: <MrGameBlaze> xd
-[21:32:24] [Server thread/INFO]: <MrGameBlaze> ya
-[21:32:31] [Server thread/INFO]: <eduardopache> el empezo
-[21:32:37] [Server thread/INFO]: <MrGameBlaze> bueno calmados los 2
-[21:32:41] [Server thread/INFO]: <MrGameBlaze> el tiene cosas valioza
-[21:32:49] [Server thread/INFO]: <eduardopache> si
-[21:32:56] [Server thread/INFO]: <MrGameBlaze> lo tumbas y te matow
-[21:33:03] [Server thread/INFO]: <eduardopache> jajajja
-[21:34:37] [Server thread/INFO]: <MrGameBlaze> eso no
-[21:34:51] [Server thread/INFO]: <MrGameBlaze> eso es solo con pico de diamante
-[21:35:13] [Server thread/INFO]: Norsx_ was slain by Hoglin
-[21:36:07] [Server thread/INFO]: eduardopache was slain by Zombie
-[21:36:50] [Server thread/INFO]: eduardopache was slain by Hoglin
-[21:37:40] [Server thread/INFO]: eduardopache was slain by Monster Guard
-[21:37:45] [Server thread/INFO]: eduardopache was slain by Monster Guard
-[21:37:47] [Server thread/INFO]: MrGameBlaze was slain by Monster Guard
-[21:37:52] [Server thread/INFO]: Norsx_ was slain by Monster Guard
-[21:37:57] [Server thread/INFO]: MrGameBlaze has made the advancement [Into Fire]
-[21:37:57] [Server thread/INFO]: MrGameBlaze has made the advancement [Hidden in the Depths]
-[21:38:06] [Server thread/INFO]: Norsx_ was slain by Monster Guard
-[21:38:12] [Server thread/INFO]: eduardopache was slain by Monster Guard
-[21:38:20] [Server thread/INFO]: eduardopache lost connection: Timed out
-[21:38:20] [Server thread/INFO]: eduardopache left the game
-[21:38:30] [Server thread/INFO]: MrGameBlaze was slain by Monster Guard
-[21:38:49] [Server thread/INFO]: eduardopache[/127.166.251.239:46655] logged in with entity id 5715 at (0.5, 61.1, 0.5)
-[21:38:49] [Server thread/INFO]: eduardopache joined the game
-[21:39:41] [Server thread/INFO]: Villager class_1646['Pamela'/2567, l='ServerLevel[§6OneBlock§7 (1.16.4)]', x=2.49, y=61.00, z=3.50] died, message: 'Pamela was slain by Norsx_'
-[21:39:52] [Server thread/INFO]: Villager class_1646['Donald'/3433, l='ServerLevel[§6OneBlock§7 (1.16.4)]', x=8.81, y=-96.89, z=1.04] died, message: 'Donald fell out of the world'
-[21:39:53] [Server thread/INFO]: Villager class_1646['Griffin'/3049, l='ServerLevel[§6OneBlock§7 (1.16.4)]', x=4.15, y=-116.54, z=3.12] died, message: 'Griffin fell out of the world'
-[21:42:50] [Server thread/INFO]: <MrGameBlaze> 8 de oro es para algo
-[21:42:52] [Server thread/INFO]: <MrGameBlaze> no los gastes
-[21:42:52] [Server thread/INFO]: <eduardopache> puse mas
-[21:44:29] [Server thread/INFO]: <eduardopache> Víctor tienes piedrad
-[21:44:33] [Server thread/INFO]: <MrGameBlaze> no
-[21:44:39] [Server thread/INFO]: <MrGameBlaze> sigue minando hasta conseguir
-[21:45:17] [Server thread/INFO]: <eduardopache> no hay pico
-[21:45:27] [Server thread/INFO]: <Norsx_> hazte uno
-[21:47:39] [Server thread/INFO]: <Norsx_> eduardo
-[21:47:42] [Server thread/INFO]: <Norsx_> dame tu pico
-[21:47:46] [Server thread/INFO]: <Norsx_> te lo mejoro
-[21:47:52] [Server thread/INFO]: <eduardopache> no tengo
-[21:47:58] [Server thread/INFO]: <Norsx_> dame ese de madera
-[21:48:09] [Server thread/INFO]: <Norsx_> ven
-[21:48:25] [Server thread/INFO]: eduardopache fell out of the world
-[21:48:26] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[21:48:35] [Server thread/INFO]: <Norsx_> ven
-[21:48:52] [Server thread/INFO]: eduardopache was blown up by Norsx_
-[21:49:01] [Server thread/INFO]: <eduardopache> si eres rata
-[21:49:05] [Server thread/INFO]: <Norsx_> xd
-[21:50:32] [Server thread/INFO]: <eduardopache> Lisandro se va conectar vamos a matarlo
-[21:50:37] [Server thread/INFO]: <Norsx_> si va
-[21:52:06] [Server thread/INFO]: <eduardopache> ya vengo
-[21:52:16] [Server thread/INFO]: eduardopache lost connection: Disconnected
-[21:52:16] [Server thread/INFO]: eduardopache left the game
+[20:04:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:04:01] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:04:01] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:04:02] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
+[20:04:03] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[20:04:03] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[20:04:03] [main/INFO]: I used the json to destroy the json
+[20:04:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:04:07] [main/INFO]: Using Java 9+ class definer
+[20:04:10] [main/INFO]: Vanilla bootstrap took 5745 milliseconds
+[20:04:11] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
+[20:04:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:04:13] [main/INFO]: Bypassed Mojang DFU
+[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:04:14] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
+[20:04:14] [main/INFO]: ARRP register - before vanilla
+[20:04:14] [main/INFO]: ARRP register - after vanilla
+[20:04:14] [main/INFO]: Invalidating pack caches
+[20:04:16] [Worker-Main-1/INFO]: Loaded 7 recipes
+[20:04:17] [Worker-Main-1/INFO]: Loaded 927 advancements
+[20:04:17] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 8.246 ms
+[20:04:18] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:04:18] [Server thread/INFO]: Loading properties
+[20:04:18] [Server thread/INFO]: Default game type: SURVIVAL
+[20:04:18] [Server thread/INFO]: Generating keypair
+[20:04:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:04:18] [Server thread/INFO]: Using epoll channel type
+[20:04:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:04:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:04:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:04:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:04:18] [Server thread/INFO]: Preparing level "world"
+[20:04:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[20:04:21] [Server thread/INFO]: Time elapsed: 2444 ms
+[20:04:21] [Server thread/INFO]: Done (2.687s)! For help, type "help"
+[20:04:21] [Server thread/WARN]: Dedicated server took 29.822 seconds to load
+[20:04:31] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:44279] logged in with entity id 20 at (5.915227639277215, 61.0, 4.53780686462242)
+[20:04:31] [Server thread/INFO]: MrGameBlaze joined the game
+[20:12:21] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
+[20:12:21] [Server thread/INFO]: MrGameBlaze left the game
