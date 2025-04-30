@@ -1,4 +1,5 @@
-[20:04:00] [main/INFO]: Loading 48 mods:
+[22:07:37] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[22:07:37] [main/INFO]: Loading 48 mods:
 	- alternate-current 1.9.0
 	- collective-fabric 5.50
 	   \-- fiber 0.23.0-2
@@ -58,149 +59,51 @@
 	- memoryleakfix 1.1.5
 	- minecraft 1.16.5
 	- modernfix 5.18.0+mc1.16.5
-[20:04:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:04:01] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:04:01] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:04:02] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
-[20:04:03] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
-[20:04:03] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
-[20:04:03] [main/INFO]: I used the json to destroy the json
-[20:04:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:04:07] [main/INFO]: Using Java 9+ class definer
-[20:04:10] [main/INFO]: Vanilla bootstrap took 5745 milliseconds
-[20:04:11] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
-[20:04:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:04:13] [main/INFO]: Bypassed Mojang DFU
-[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:04:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:04:14] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
-[20:04:14] [main/INFO]: ARRP register - before vanilla
-[20:04:14] [main/INFO]: ARRP register - after vanilla
-[20:04:14] [main/INFO]: Invalidating pack caches
-[20:04:16] [Worker-Main-1/INFO]: Loaded 7 recipes
-[20:04:17] [Worker-Main-1/INFO]: Loaded 927 advancements
-[20:04:17] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 8.246 ms
-[20:04:18] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:04:18] [Server thread/INFO]: Loading properties
-[20:04:18] [Server thread/INFO]: Default game type: SURVIVAL
-[20:04:18] [Server thread/INFO]: Generating keypair
-[20:04:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:04:18] [Server thread/INFO]: Using epoll channel type
-[20:04:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:04:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:04:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:04:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:04:18] [Server thread/INFO]: Preparing level "world"
-[20:04:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
-[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
-[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
-[20:04:20] [Server thread/INFO]: Preparing spawn area: 0%
-[20:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[20:04:21] [Server thread/INFO]: Time elapsed: 2444 ms
-[20:04:21] [Server thread/INFO]: Done (2.687s)! For help, type "help"
-[20:04:21] [Server thread/WARN]: Dedicated server took 29.822 seconds to load
-[20:04:31] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:44279] logged in with entity id 20 at (5.915227639277215, 61.0, 4.53780686462242)
-[20:04:31] [Server thread/INFO]: MrGameBlaze joined the game
-[20:12:21] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[20:12:21] [Server thread/INFO]: MrGameBlaze left the game
-[20:15:41] [Server thread/INFO]: MrGameBlaze[/127.129.209.248:55577] logged in with entity id 74 at (0.6999999880790713, 61.0, 10.237500011920927)
-[20:15:41] [Server thread/INFO]: MrGameBlaze joined the game
-[20:22:30] [Server thread/INFO]: GHOST2026YT[/127.204.12.108:47453] logged in with entity id 131 at (4.118575025115843, 61.0, 4.667433977559625)
-[20:22:30] [Server thread/INFO]: GHOST2026YT joined the game
-[20:22:46] [Server thread/INFO]: <MrGameBlaze> a la
-[20:22:55] [Server thread/INFO]: <GHOST2026YT> pero muchacho solo me fui un dia no mames
-[20:23:06] [Server thread/INFO]: <MrGameBlaze> juego 24/7
-[20:23:11] [Server thread/INFO]: <GHOST2026YT> vicioso
-[20:23:16] [Server thread/INFO]: <MrGameBlaze> y]
-[20:23:19] [Server thread/INFO]: <MrGameBlaze> tu jugas lego
-[20:23:27] [Server thread/INFO]: <GHOST2026YT> pero no 24/7
-[20:23:31] [Server thread/INFO]: <MrGameBlaze> si claro
-[20:23:40] [Server thread/INFO]: <MrGameBlaze> llamafda para no escribir>
-[20:23:48] [Server thread/INFO]: <GHOST2026YT> no me la paso jugando 24/7 jugando lego
-[20:23:56] [Server thread/INFO]: <GHOST2026YT> jugar lo mismo tanto tiempo me abuerre
-[20:24:01] [Server thread/INFO]: <GHOST2026YT> mi cel esta cargando
-[20:24:05] [Server thread/INFO]: <MrGameBlaze> xd
-[20:24:30] [Server thread/INFO]: GHOST2026YT was slain by Hoglin
-[20:24:32] [Server thread/INFO]: <MrGameBlaze> xd
-[20:24:34] [Server thread/INFO]: MrGameBlaze was slain by Hoglin
-[20:24:39] [Server thread/INFO]: <GHOST2026YT> pero para
-[20:25:00] [Server thread/INFO]: <MrGameBlaze> puto
-[20:25:06] [Server thread/INFO]: <GHOST2026YT> que
-[20:25:13] [Server thread/INFO]: <MrGameBlaze> ese soglin
-[20:25:21] [Server thread/INFO]: <GHOST2026YT> men re roto el weon
-[20:25:28] [Server thread/INFO]: <MrGameBlaze> si
-[20:25:28] [Server thread/INFO]: <GHOST2026YT> puro spam
-[20:25:56] [Server thread/INFO]: GHOST2026YT has made the advancement [Hot Stuff]
-[20:26:00] [Server thread/INFO]: <GHOST2026YT> mano hay agua?
-[20:26:06] [Server thread/INFO]: <MrGameBlaze> tenes cubo de lava?
-[20:26:09] [Server thread/INFO]: <GHOST2026YT> si
-[20:26:12] [Server thread/INFO]: <MrGameBlaze> dme
-[20:26:17] [Server thread/INFO]: MrGameBlaze has made the advancement [Hot Stuff]
-[20:26:24] [Server thread/INFO]: <MrGameBlaze> que bueno que bachaco no eta
-[20:26:35] [Server thread/INFO]: <GHOST2026YT> dile a eduardo que no se acerque al generador
-[20:26:38] [Server thread/INFO]: <GHOST2026YT> pon un cartel
-[20:26:44] [Server thread/INFO]: <MrGameBlaze> siiiii
-[20:27:08] [Server thread/INFO]: <GHOST2026YT> NO MAMES OBSIDIANA
-[20:27:25] [Server thread/INFO]: <GHOST2026YT> xdddd ta bueno
-[20:27:53] [Server thread/INFO]: <GHOST2026YT> mano pasa comida
-[20:27:58] [Server thread/INFO]: <MrGameBlaze> NO TENGO
-[20:28:01] [Server thread/INFO]: <GHOST2026YT> coñooo
-[20:28:13] [Server thread/INFO]: <GHOST2026YT> weon y la campivaca?
-[20:29:03] [Server thread/INFO]: <MrGameBlaze> SE MURIERON POR EDUARDO
-[20:29:13] [Server thread/INFO]: GHOST2026YT has made the advancement [Diamonds!]
-[20:29:15] [Server thread/INFO]: <MrGameBlaze> GUARDA TODO
-[20:29:16] [Server thread/INFO]: <GHOST2026YT> no mames
-[20:29:19] [Server thread/INFO]: <GHOST2026YT> que hizo
-[20:29:24] [Server thread/INFO]: <MrGameBlaze> LAS MATO NOSE PORQUE
-[20:29:33] [Server thread/INFO]: <GHOST2026YT> marico por que lo invitastes
-[20:29:39] [Server thread/INFO]: <MrGameBlaze> NISE
-[20:29:42] [Server thread/INFO]: <GHOST2026YT> con razon lo llaman el cagon
-[20:30:04] [Server thread/INFO]: <MrGameBlaze> XD
-[20:30:30] [Server thread/INFO]: <MrGameBlaze> MANO NECESITO 1 DE HIERRO
-[20:30:37] [Server thread/INFO]: <GHOST2026YT> no tengo
-[20:30:44] [Server thread/INFO]: <MrGameBlaze> layos
-[20:30:54] [Server thread/INFO]: GHOST2026YT has made the advancement [Into Fire]
-[20:31:35] [Server thread/INFO]: <MrGameBlaze> dame esas cargas
-[20:32:29] [Server thread/INFO]: <GHOST2026YT> salia mejor losas pa evitar el spawn de mobs?
-[20:32:43] [Server thread/INFO]: GHOST2026YT has made the advancement [We Need to Go Deeper]
-[20:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[20:32:44] [Server thread/INFO]: MrGameBlaze has made the advancement [We Need to Go Deeper]
-[20:32:48] [Server thread/INFO]: <MrGameBlaze> yupiii
-[20:32:51] [Server thread/INFO]: <GHOST2026YT> ufff
-[20:32:57] [Server thread/INFO]: <MrGameBlaze> xd
-[20:33:08] [Server thread/INFO]: <GHOST2026YT> xdddd
-[20:33:22] [Server thread/INFO]: <GHOST2026YT> amigo estabas volando xdd
-[20:33:23] [Server thread/INFO]: <MrGameBlaze> lo logramos wii
-[20:33:30] [Server thread/INFO]: <GHOST2026YT> jajaja
-[20:33:41] [Server thread/INFO]: <MrGameBlaze> ya vuelvo
-[20:33:42] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[20:33:42] [Server thread/INFO]: MrGameBlaze left the game
-[20:48:54] [Server thread/INFO]: GHOST2026YT has made the advancement [Ice Bucket Challenge]
-[20:50:52] [Server thread/INFO]: GHOST2026YT has made the advancement [Suit Up]
-[20:54:22] [Server thread/INFO]: GHOST2026YT was stung to death
-[21:09:22] [Server thread/INFO]: eduardopache[/127.8.40.220:52799] logged in with entity id 2556 at (9.117010722610473, 61.0, 4.552651482388386)
-[21:09:22] [Server thread/INFO]: eduardopache joined the game
-[21:09:30] [Server thread/INFO]: eduardopache was slain by GHOST2026YT
-[21:09:58] [Server thread/INFO]: <GHOST2026YT> bromita
-[21:10:05] [Server thread/INFO]: <eduardopache> Lisandro
-[21:10:09] [Server thread/INFO]: <GHOST2026YT> dimelo
-[21:10:24] [Server thread/INFO]: <GHOST2026YT> mira no toques el generador de piedra
-[21:11:54] [Server thread/INFO]: eduardopache was slain by GHOST2026YT
-[21:12:01] [Server thread/INFO]: <GHOST2026YT> que paso perro?
-[21:12:24] [Server thread/INFO]: <eduardopache> gay
-[21:12:28] [Server thread/INFO]: <GHOST2026YT> tu papa
-[21:12:34] [Server thread/INFO]: <eduardopache> habibi
-[21:12:38] [Server thread/INFO]: <GHOST2026YT> boom
-[21:12:41] [Server thread/INFO]: eduardopache was slain by GHOST2026YT
-[21:12:45] [Server thread/INFO]: <GHOST2026YT> xddd
-[21:13:31] [Server thread/INFO]: eduardopache didn't want to live in the same world as GHOST2026YT
-[21:13:44] [Server thread/INFO]: <GHOST2026YT> wazaaaaaaaaaa
-[21:14:30] [Server thread/INFO]: eduardopache lost connection: Disconnected
-[21:14:30] [Server thread/INFO]: eduardopache left the game
-[21:19:00] [Server thread/INFO]: GHOST2026YT was slain by Cave Spider
-[21:19:15] [Server thread/INFO]: GHOST2026YT was slain by Cave Spider
-[21:21:49] [Server thread/INFO]: GHOST2026YT has made the advancement [Not Today, Thank You]
+[22:07:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:07:38] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:07:38] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:07:39] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
+[22:07:40] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[22:07:40] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[22:07:40] [main/INFO]: I used the json to destroy the json
+[22:07:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:07:43] [main/INFO]: Using Java 9+ class definer
+[22:07:46] [main/INFO]: Vanilla bootstrap took 4393 milliseconds
+[22:07:46] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
+[22:07:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:07:48] [main/INFO]: Bypassed Mojang DFU
+[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:07:49] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
+[22:07:49] [main/INFO]: ARRP register - before vanilla
+[22:07:49] [main/INFO]: ARRP register - after vanilla
+[22:07:49] [main/INFO]: Invalidating pack caches
+[22:07:51] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:07:51] [Worker-Main-1/INFO]: Loaded 927 advancements
+[22:07:51] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.730 ms
+[22:07:51] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[22:07:51] [Server thread/INFO]: Loading properties
+[22:07:51] [Server thread/INFO]: Default game type: SURVIVAL
+[22:07:51] [Server thread/INFO]: Generating keypair
+[22:07:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:07:52] [Server thread/INFO]: Using epoll channel type
+[22:07:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:07:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:07:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:07:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:07:52] [Server thread/INFO]: Preparing level "world"
+[22:07:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[22:07:55] [Server thread/INFO]: Time elapsed: 2440 ms
+[22:07:55] [Server thread/INFO]: Done (2.647s)! For help, type "help"
+[22:07:55] [Server thread/WARN]: Dedicated server took 23.577 seconds to load
+[22:15:43] [Server thread/INFO]: eduardopache[/127.147.214.110:37099] logged in with entity id 49 at (2.6704579565475295, 61.0, 7.173206450993335)
+[22:15:43] [Server thread/INFO]: eduardopache joined the game
+[22:15:49] [Server thread/INFO]: eduardopache was slain by Vex
