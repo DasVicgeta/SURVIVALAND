@@ -1,5 +1,4 @@
-[22:07:37] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[22:07:37] [main/INFO]: Loading 48 mods:
+[15:32:05] [main/INFO]: Loading 48 mods:
 	- alternate-current 1.9.0
 	- collective-fabric 5.50
 	   \-- fiber 0.23.0-2
@@ -59,60 +58,57 @@
 	- memoryleakfix 1.1.5
 	- minecraft 1.16.5
 	- modernfix 5.18.0+mc1.16.5
-[22:07:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:07:38] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:07:38] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:07:39] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
-[22:07:40] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
-[22:07:40] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
-[22:07:40] [main/INFO]: I used the json to destroy the json
-[22:07:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:07:43] [main/INFO]: Using Java 9+ class definer
-[22:07:46] [main/INFO]: Vanilla bootstrap took 4393 milliseconds
-[22:07:46] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
-[22:07:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:07:48] [main/INFO]: Bypassed Mojang DFU
-[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:07:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:07:49] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
-[22:07:49] [main/INFO]: ARRP register - before vanilla
-[22:07:49] [main/INFO]: ARRP register - after vanilla
-[22:07:49] [main/INFO]: Invalidating pack caches
-[22:07:51] [Worker-Main-1/INFO]: Loaded 7 recipes
-[22:07:51] [Worker-Main-1/INFO]: Loaded 927 advancements
-[22:07:51] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.730 ms
-[22:07:51] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[22:07:51] [Server thread/INFO]: Loading properties
-[22:07:51] [Server thread/INFO]: Default game type: SURVIVAL
-[22:07:51] [Server thread/INFO]: Generating keypair
-[22:07:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:07:52] [Server thread/INFO]: Using epoll channel type
-[22:07:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:07:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:07:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:07:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:07:52] [Server thread/INFO]: Preparing level "world"
-[22:07:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
-[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
-[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
-[22:07:54] [Server thread/INFO]: Preparing spawn area: 0%
-[22:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[22:07:55] [Server thread/INFO]: Time elapsed: 2440 ms
-[22:07:55] [Server thread/INFO]: Done (2.647s)! For help, type "help"
-[22:07:55] [Server thread/WARN]: Dedicated server took 23.577 seconds to load
-[22:15:43] [Server thread/INFO]: eduardopache[/127.147.214.110:37099] logged in with entity id 49 at (2.6704579565475295, 61.0, 7.173206450993335)
-[22:15:43] [Server thread/INFO]: eduardopache joined the game
-[22:15:49] [Server thread/INFO]: eduardopache was slain by Vex
-[22:19:16] [Server thread/INFO]: eduardopache was shot by Skeleton
-[22:19:32] [Server thread/INFO]: eduardopache was shot by Skeleton
-[22:19:57] [Server thread/INFO]: eduardopache was shot by Skeleton
-[22:23:13] [Server thread/INFO]: eduardopache was shot by Skeleton
-[22:23:25] [Server thread/INFO]: eduardopache has made the advancement [Suit Up]
-[22:23:29] [Server thread/INFO]: eduardopache was shot by Skeleton
-[22:27:45] [Server thread/INFO]: eduardopache fell out of the world
-[22:30:00] [Server thread/INFO]: eduardopache lost connection: Disconnected
-[22:30:00] [Server thread/INFO]: eduardopache left the game
+[15:32:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SURVIVALAND/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:32:06] [main/WARN]: Reference map 'fabric-mod-refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:32:06] [main/WARN]: Reference map 'memoryleakfix-fabric-pre1.17-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:32:06] [main/INFO]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 56 options available, 0 override(s) found
+[15:32:07] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[15:32:07] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[15:32:07] [main/INFO]: I used the json to destroy the json
+[15:32:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:32:11] [main/INFO]: Using Java 9+ class definer
+[15:32:15] [main/INFO]: Vanilla bootstrap took 5942 milliseconds
+[15:32:15] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 5.50.
+[15:32:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:32:16] [main/INFO]: Bypassed Mojang DFU
+[15:32:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:32:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:32:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:32:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:32:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:32:17] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1)), ija-one-block
+[15:32:17] [main/INFO]: ARRP register - before vanilla
+[15:32:17] [main/INFO]: ARRP register - after vanilla
+[15:32:17] [main/INFO]: Invalidating pack caches
+[15:32:19] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:32:20] [Worker-Main-1/INFO]: Loaded 927 advancements
+[15:32:20] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.803 ms
+[15:32:20] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:32:20] [Server thread/INFO]: Loading properties
+[15:32:20] [Server thread/INFO]: Default game type: SURVIVAL
+[15:32:20] [Server thread/INFO]: Generating keypair
+[15:32:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:32:21] [Server thread/INFO]: Using epoll channel type
+[15:32:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:32:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:32:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:32:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:32:21] [Server thread/INFO]: Preparing level "world"
+[15:32:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:32:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:32:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:32:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:32:23] [Server thread/INFO]: Preparing spawn area: 16%
+[15:32:23] [Server thread/INFO]: Time elapsed: 2080 ms
+[15:32:23] [Server thread/INFO]: Done (2.462s)! For help, type "help"
+[15:32:23] [Server thread/WARN]: Dedicated server took 24.75 seconds to load
+[15:32:26] [Server thread/INFO]: Norsx_[/127.102.42.146:53965] logged in with entity id 19 at (10.853980253798449, 61.0, 2.7608293905895627)
+[15:32:27] [Server thread/INFO]: Norsx_ joined the game
+[15:33:01] [Server thread/INFO]: Norsx_ has made the advancement [We Need to Go Deeper]
+[15:33:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
+[15:40:56] [Server thread/INFO]: Norsx_ was slain by Monster Guard
+[15:41:15] [Server thread/INFO]: Norsx_ was slain by Vex
+[15:41:24] [Server thread/INFO]: Norsx_ was slain by Monster Guard
+[15:41:34] [Server thread/INFO]: Norsx_ was slain by Vex
+[15:41:44] [Server thread/INFO]: Norsx_ was shot by Monster Guard
+[15:41:56] [Server thread/INFO]: Norsx_ was slain by Vex
